@@ -123,4 +123,6 @@ idle_state.object_identification(navi)
 # Changing state and attempting to perform functions not in the current state
 navi.change_state("Reading")
 idle_state.object_detection(navi) 
-idle_state.person_identification(navi)  
+idle_state.person_identification(navi)
+
+print(navi.get_name())  
