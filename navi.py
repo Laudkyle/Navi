@@ -53,8 +53,14 @@ class Reading(State):
     def translate(self):
         print("This function translates a specific text")
 class Navigation(State):
-     def perform_task(self):
-        pass
+    def path_detection(self):
+        print("This function is used for finding the path to use")
+    
+    def path_division(self):
+        print('This function is used to divide the found path in to a number of sections')
+        
+    def path_decision(self):
+        print("This function is used to decide the path to take during navigation")
     
 # Example usage:
 navi = Navi(name="Navie", battery=100)
