@@ -20,6 +20,9 @@ class Navi:
             self.current_state = state_name
         else:
             print(f"Error: State {state_name} not found.")
+            
+    def calibrate_steps(self):
+        print("This function is used to calibrate meters into steps for users")
 
 # Setting the setters
     def set_name(self, name):
