@@ -21,10 +21,28 @@ class Navi:
         else:
             print(f"Error: State {state_name} not found.")
 
-            
+# Setting the setters
+    def set_name(self, name):
+        self.name = name
+    
+    def set_battery(self,battery):
+        self.battery = battery 
+         
     def set_location(self, location):
         self.location = location
-
+        
+# Setting the getters
+    def get_state(self):
+        return self.current_state
+    
+    def get_name(self):
+        return self.name
+    
+    def get_location(self):
+        return self.location
+    
+    def get_battery(self):
+        return self.battery
 class Idle(State):
     def person_identification(self, navi):
         if navi.current_state == "Idle":
