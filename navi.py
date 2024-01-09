@@ -100,6 +100,14 @@ class Navigation(State):
         else:
             print("Error: Cannot perform this function in the current state")
 
+
+def execute_code(code, navi):
+    try:
+        result = eval(code, globals(), {'navi': navi})
+        return result
+    except Exception as e:
+        return f"Error: {e}"
+
 navi = Navi(name="Navie", location='Ghana', battery=100)
 
 # Creating states with specific characteristics
@@ -125,4 +133,12 @@ navi.change_state("Navigation")
 idle_state.object_detection(navi) 
 idle_state.person_identification(navi)
 
-print(navi.get_name())  
+
+while True:
+    user_input = input("Ask a question (type 'exit' to end): ")
+    if user_input.lower() == 'exit':
+        break
+
+    code_to_execute = f'navi.{user_input.lower()}()'
+    result = execute_code(code_to_execute, navi)
+    print(result)
