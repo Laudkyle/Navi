@@ -44,8 +44,14 @@ class Idle(State):
         print("This function identify any object in question. Colors")
 
 class Reading(State):
-     def perform_task(self):
-        pass
+    def read_text(self):
+        print("This function reads the text that is directed to the camera")
+        
+    def language_identification(self):
+        print("This function identifies the language of a specific text in question")
+        
+    def translate(self):
+        print("This function translates a specific text")
 class Navigation(State):
      def perform_task(self):
         pass
