@@ -64,38 +64,38 @@ class Idle(State):
 
 class Reading(State):
     def read_text(self, navi):
-        if self.status == "Reading":
+        if navi.current_state == "Reading":
             print("This function reads the text that is directed to the camera")
         else:
             print("Error: Cannot perform this function in the current state")
 
     def language_identification(self, navi):
-        if self.status == "Reading":
+        if navi.current_state == "Reading":
             print("This function identifies the language of a specific text in question")
         else:
             print("Error: Cannot perform this function in the current state")
 
     def translate(self, navi):
-        if self.status == "Reading":
+        if navi.current_state == "Reading":
             print("This function translates a specific text")
         else:
             print("Error: Cannot perform this function in the current state")
 
 class Navigation(State):
     def path_detection(self, navi):
-        if self.status == "Navigation":
+        if navi.current_state == "Navigation":
             print("This function is used for finding the path to use")
         else:
             print("Error: Cannot perform this function in the current state")
 
     def path_division(self, navi):
-        if self.status == "Navigation":
+        if navi.current_state == "Navigation":
             print('This function is used to divide the found path into a number of sections')
         else:
             print("Error: Cannot perform this function in the current state")
 
-    def path_decision(self, navi):
-        if self.status == "Navigation":
+    def path_decision(self,navi):
+        if navi.current_state == "Navigation":
             print("This function is used to decide the path to take during navigation")
         else:
             print("Error: Cannot perform this function in the current state")
@@ -121,7 +121,7 @@ idle_state.person_identification(navi)
 idle_state.object_identification(navi)
 
 # Changing state and attempting to perform functions not in the current state
-navi.change_state("Reading")
+navi.change_state("Navigation")
 idle_state.object_detection(navi) 
 idle_state.person_identification(navi)
 
