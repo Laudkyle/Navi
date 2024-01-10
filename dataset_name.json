@@ -1,0 +1,402 @@
+[
+  {
+    "question": " How should I address you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you tell me your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What do people call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given name?",
+    "answer": "name"
+  },
+  {
+    "question": "Do you have a name?",
+    "answer": "name"
+  },
+  {
+    "question": "Could you share your name with me?",
+    "answer": "name"
+  },
+  {
+    "question": "What are you called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your title?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I refer to you?",
+    "answer": "name"
+  },
+  {
+    "question": "What name were you given?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you introduce yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What label do you go by?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identification?",
+    "answer": "name"
+  },
+  {
+    "question": "Any specific name I should know?",
+    "answer": "name"
+  },
+  {
+    "question": "How do others recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your appellation?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I identify you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your name?",
+    "answer": "name"
+  },
+  {
+    "question": "Any particular name you respond to?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identity marker?",
+    "answer": "name"
+  },
+  {
+    "question": "What were you named?",
+    "answer": "name"
+  },
+  {
+    "question": "What are you named after?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tag?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your designation?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given label?",
+    "answer": "name"
+  },
+  {
+    "question": "What were you baptized as?",
+    "answer": "name"
+  },
+  {
+    "question": "How do others know you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you let me know your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your name tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I know you?",
+    "answer": "name"
+  },
+  {
+    "question": "Do you have a specific title?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given identity?",
+    "answer": "name"
+  },
+  {
+    "question": "How do people address you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your title?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I acknowledge you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your title of address?",
+    "answer": "name"
+  },
+  {
+    "question": "Any specific name you prefer?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I call upon you?",
+    "answer": "name"
+  },
+  {
+    "question": "What name do you bear?",
+    "answer": "name"
+  },
+  {
+    "question": "What should I call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your handle?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I designate you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your cognomen?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you go by?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you share your designation?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identity called?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I differentiate you?",
+    "answer": "name"
+  },
+  {
+    "question": "What do you answer to?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your nameplate?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your byname?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you introduce yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be addressed?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you unveil your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you identify yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tagline?",
+    "answer": "name"
+  },
+  {
+    "question": "What name do you carry?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your byword?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I recognize you by name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you sign yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-identity?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I name you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you reveal your moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you present yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official title?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I refer to you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What name were you given at birth?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tag of identification?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I address you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your formal designation?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I address you properly?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label for recognition?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you prefer to be called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your formal moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-chosen name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be recognized?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your appellation of choice?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you share your self-identity?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your name tag of preference?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I acknowledge you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label for formal addressing?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be addressed formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your preferred name for recognition?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your formal identification?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen title?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I formally know you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-chosen identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be formally addressed?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label of choice for recognition?",
+    "answer": "name"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "question": "Can you tell me my location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the place I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly am I right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "In which city am I located?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide details about my whereabouts?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the specific location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you let me know my current place?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my present location?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the name of the place I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where can I find myself geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you give me information about the place I'm situated?",
+    "answer": "location"
+  },
+  {
+    "question": "In what region am I currently located?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the area I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I find myself?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you reveal my current geographic coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where specifically am I situated right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me the name of my current position?",
+    "answer": "location"
+  },
+  {
+    "question": "In which part of the world am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about my location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the address of the place I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I currently positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose the details of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the city or town I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the map?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you inform me about my geographical position?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the precise place I'm located at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I stand?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you reveal the name of my present position?",
+    "answer": "location"
+  },
+  {
+    "question": "What is my current GPS location?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I situated right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me the specific area I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place where I am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I find myself currently?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you provide details about my current geographical location?",
+    "answer": "location"
+  },
+  {
+    "question": "In what locality am I presently located?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the region I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the global map?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my current coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place I'm located right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I physically situated?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me my precise location?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the city or town where I currently find myself?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about the region I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the exact spot where I am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I stand geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about my current coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the specific location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where can I be found at the moment?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my current address?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the town or city I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where in the world am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my present location on the map?",
+    "answer": "location"
+  },
+  {
+    "question": "What is my location currently?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I located geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you provide details about my current place?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the area where I am right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where specifically am I positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you reveal my current geographic position?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the precise geographic location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I find myself on the Earth's surface?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me the name of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "In what part of the city am I situated?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place where I'm physically present?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I currently residing?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose the name of the city or town I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the exact location I'm at right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on the map can I be located?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about the specific spot I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the name of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I presently positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my geographical coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the region I'm currently in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the planet?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about my present location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the address of the place where I currently am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I find myself at this moment?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you reveal my current geographic coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the specific place I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I stand geographically right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my exact location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the city or town where I'm located?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I currently situated?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you disclose details about my current location?",
+    "answer": "location"
+  }
+]

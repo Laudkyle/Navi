@@ -1,0 +1,358 @@
+[
+  {
+    "question": "How much battery do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you tell me your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "In terms of power, where do you stand?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery holding up?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the status of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery percentage with me?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What percentage of battery do you have?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery level right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much charge is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you reveal your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current power level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your remaining battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the level of your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much power is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What percentage of battery power are you currently at?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery doing right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of charge left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the remaining power in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me the percentage of charge in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the current level of your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much power do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the battery percentage on your device?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your remaining battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you reveal your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery life do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the charge percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery power at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of power remaining in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery capacity do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery charge right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the charge level on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining charge on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you reveal your current battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery performing?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your remaining battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me your current battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery charge at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery power?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much charge is left in your battery right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of battery remaining on your device?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your remaining battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the charge percentage left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery power do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery power percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you reveal your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining power percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery power percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining health percentage of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much health is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the health percentage of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your remaining battery health?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery health at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your current battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery health right now?",
+    "answer": "battery_health"
+  }
+]
