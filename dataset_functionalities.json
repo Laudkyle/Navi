@@ -1,0 +1,334 @@
+[
+  {
+    "question": "What tasks can you perform?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about your capabilities.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your functions?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What can you do for me?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide a list of your features?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do you assist users?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe your abilities.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of tasks are you designed for?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about the things you can accomplish.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities do you offer?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your purpose?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Give me an overview of your capabilities.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your skills?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of assistance can you provide?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you list your functionalities?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How can you help me?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me what you're capable of doing.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe the things you're good at.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your main features?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you perform specific tasks?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How can you be useful to me?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Enumerate your functions.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of support do you provide?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you excel at?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "List your practical applications.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your strengths?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What tasks are within your scope?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about your operational abilities.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you bring to the table?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe your range of functions.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities are available?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is in your toolkit?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do you function?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Elaborate on your capabilities.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What services are at your disposal?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What tasks are you skilled at?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Explain your areas of expertise.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What practical uses do you have?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What features make you unique?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How can you assist me in daily life?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "List your practical skills.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of problems can you solve?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Detail your operational scope.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do you contribute to users' needs?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe how you can be helpful.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities do users find valuable?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your strong points?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you enumerate your functions?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do you add value to users?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you excel in doing?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your primary functions?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How can you simplify tasks for users?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about your practical applications.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What tasks do users typically use you for?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you bring to the table in terms of utility?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe how users benefit from your features.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of assistance do you provide to users?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "List the ways you can support users.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your primary role?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about the range of things you can accomplish.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities do you prioritize?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you perform specialized tasks?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What kind of functionalities do you specialize in?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe your utility in daily life.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do users typically engage with your capabilities?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What services do users commonly seek from you?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you offer to enhance users' experiences?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "List the ways in which you simplify tasks for users.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Describe your role in assisting and supporting users.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How can you contribute to users' daily routines?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are your most requested functions?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do users leverage your capabilities in their activities?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities do users appreciate the most?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What do you do to make users' lives easier?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about the tasks you are proficient in handling.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do users utilize your functionalities in their routines?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What are the primary functionalities users seek from you?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What unique features do you bring to users?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "List the ways in which you enhance users' productivity.",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How do you adapt to users' needs through your functionalities?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What functionalities do you consider your core strengths?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Tell me about your most valuable capabilities.",
+    "answer": "battery_health"
+  }
+]
