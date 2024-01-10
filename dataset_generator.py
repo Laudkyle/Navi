@@ -6,7 +6,7 @@ def transform_to_json(questions, output_file):
     for index, question in enumerate(questions, start=1):
         json_entry = {
             "question": question,
-            "answer": f"battery_health"
+            "answer": f"general_functionalities"
         }
         json_data.append(json_entry)
 
