@@ -1,0 +1,834 @@
+[
+  {
+    "question": "How do I initiate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command triggers the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I initiate navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command switches the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the functionality to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I initiate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command triggers the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality",
+    "answer": "activate_functionalities"
+  }
+]
