@@ -1,0 +1,4478 @@
+[
+  {
+    "question": "How do I initiate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command triggers the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I initiate navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command switches the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the functionality to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I initiate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action triggers the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command triggers the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to navigation?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I initiate the reading functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action changes the state to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change the functionality to idle?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I activate the idle mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command changes the state to reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I switch to navigation functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action activates the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I change to reading state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command initiates the navigation mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I activate the idle functionality?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action switches the functionality to reading?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How do I switch to the navigation state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What command activates the reading mode?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How can I change to the idle state?",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "What action initiates the navigation functionality",
+    "answer": "activate_functionalities"
+  },
+  {
+    "question": "How much battery do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you tell me your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "In terms of power, where do you stand?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery holding up?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the status of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery percentage with me?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What percentage of battery do you have?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery level right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much charge is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you reveal your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current power level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your remaining battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the level of your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much power is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What percentage of battery power are you currently at?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery doing right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of charge left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your battery percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the remaining power in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your current battery level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me the percentage of charge in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the current level of your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much power do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the battery percentage on your device?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your remaining battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you reveal your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery life do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the charge percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery power at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of power remaining in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery capacity do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery charge right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your current battery status?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the charge level on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you inform me about your battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining charge on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you reveal your current battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery performing?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery charge percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your remaining battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you tell me your current battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery charge at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your remaining battery power?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much charge is left in your battery right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the percentage of battery remaining on your device?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your current battery charge?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you share your remaining battery charge level?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the charge percentage left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you disclose your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much battery power do you have left?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery power percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you reveal your battery life percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining power percentage on your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your battery power percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your current battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining health percentage of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you share your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How much health is left in your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is the health percentage of your battery?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you provide details about your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What's the remaining battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Could you inform me about your remaining battery health?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "How is your battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your remaining battery health at the moment?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "Can you disclose your current battery health percentage?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What is your battery health right now?",
+    "answer": "battery_health"
+  },
+  {
+    "question": "What tasks can you perform?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about your capabilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your functions?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What can you do for me?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Can you provide a list of your features?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do you assist users?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe your abilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of tasks are you designed for?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about the things you can accomplish.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities do you offer?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What is your purpose?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Give me an overview of your capabilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your skills?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of assistance can you provide?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Can you list your functionalities?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How can you help me?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me what you're capable of doing.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe the things you're good at.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your main features?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Can you perform specific tasks?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How can you be useful to me?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Enumerate your functions.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of support do you provide?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you excel at?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "List your practical applications.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your strengths?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What tasks are within your scope?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about your operational abilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you bring to the table?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe your range of functions.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities are available?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What is in your toolkit?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do you function?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Elaborate on your capabilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What services are at your disposal?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What tasks are you skilled at?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Explain your areas of expertise.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What practical uses do you have?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What features make you unique?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How can you assist me in daily life?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "List your practical skills.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of problems can you solve?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Detail your operational scope.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do you contribute to users' needs?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe how you can be helpful.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities do users find valuable?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your strong points?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Can you enumerate your functions?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do you add value to users?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you excel in doing?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your primary functions?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How can you simplify tasks for users?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about your practical applications.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What tasks do users typically use you for?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you bring to the table in terms of utility?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe how users benefit from your features.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of assistance do you provide to users?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "List the ways you can support users.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What is your primary role?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about the range of things you can accomplish.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities do you prioritize?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Can you perform specialized tasks?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What kind of functionalities do you specialize in?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe your utility in daily life.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do users typically engage with your capabilities?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What services do users commonly seek from you?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you offer to enhance users' experiences?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "List the ways in which you simplify tasks for users.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Describe your role in assisting and supporting users.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How can you contribute to users' daily routines?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are your most requested functions?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do users leverage your capabilities in their activities?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities do users appreciate the most?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What do you do to make users' lives easier?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks you are proficient in handling.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do users utilize your functionalities in their routines?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What are the primary functionalities users seek from you?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What unique features do you bring to users?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "List the ways in which you enhance users' productivity.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "How do you adapt to users' needs through your functionalities?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What functionalities do you consider your core strengths?",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "Tell me about your most valuable capabilities.",
+    "answer": "general_functionalities"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Great Barrier Reef located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the process of photosynthesis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of Earth's atmosphere?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the United States declare independence?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Mount Everest located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who was the first man to step on the moon?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'ephemeral'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which century did the Renaissance begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Bard of Avon'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the pH of pure water?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Taj Mahal located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of sound in air?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of evolution by natural selection?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Nile River located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Last Supper?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the American Civil War end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest species of big cat?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'ubiquitous'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of psychoanalysis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Amazon Rainforest located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of a cheetah?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Industrial Revolution begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the polio vaccine?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main gas responsible for the greenhouse effect?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Medicine'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest moon of Saturn?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Cold War end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Four Seasons'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Machu Picchu located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of continental drift?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which century was the first computer invented?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Guernica?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'esoteric'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the first antibiotic?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Russian Revolution occur?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'King of Rock and Roll'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's core?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Iliad'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Kelvin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Serengeti National Park located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Ode to Joy'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the current president of the United States?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest mountain in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Lord of the Rings'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Acropolis located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the theory of radioactivity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the 'Girl with a Pearl Earring'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Hitchhiker's Guide to the Galaxy'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of gravity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of South Korea?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Mount Kilimanjaro located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Messiah'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid nitrogen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of the fastest land animal?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the double helix structure of DNA?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year was the Magna Carta signed?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Queen of Soul'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's crust?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Petra located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the first antibiotic?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid oxygen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Communist Manifesto'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in North America?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Water Music'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid helium?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the Pacific Ocean?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Germany?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Renaissance end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Old Man and the Sea'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest canyon in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of psychoanalysis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'American Gothic'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's atmosphere?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Angkor Wat located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of France?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Italy?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Swan Lake'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in paella?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid methane?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Art of War'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest river in South America?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Birth of Venus'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's mantle?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Great Wall of China located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the theory of relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Canada?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of the fastest bird?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Scarlet Letter'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of natural selection?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid mercury?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the French Revolution begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Divine Comedy'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest rainforest in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Economics'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Scream'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's outer core?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Colosseum located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of the United States?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in sushi?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid water?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'Brave New World'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in Asia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Queen of Sheba'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the 'Night Watch'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's inner core?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Machu Picchu located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the law of gravity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of France?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of sound in air?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of evolution?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the smallest ocean in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Chemistry'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Four Seasons'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in pesto?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid gold?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Medicine'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's lithosphere?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Taj Mahal located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the laws of motion?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid nitrogen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of radioactivity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the 'Girl with a Pearl Earring'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Hitchhiker's Guide to the Galaxy'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of gravity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of South Korea?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Mount Kilimanjaro located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Messiah'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid nitrogen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of the fastest land animal?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the double helix structure of DNA?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year was the Magna Carta signed?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Queen of Soul'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's crust?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Petra located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the first antibiotic?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid oxygen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Communist Manifesto'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in North America?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Water Music'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid helium?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the Pacific Ocean?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Germany?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Renaissance end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Old Man and the Sea'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest canyon in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of psychoanalysis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'American Gothic'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's atmosphere?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Angkor Wat located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of France?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Italy?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Swan Lake'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in paella?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid methane?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Art of War'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest river in South America?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Birth of Venus'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's mantle?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Great Wall of China located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the theory of relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Canada?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of the fastest bird?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Scarlet Letter'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of natural selection?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of liquid mercury?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the French Revolution begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Divine Comedy'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest rainforest in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Economics'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted 'The Scream'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's outer",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What activities are available in idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the functions I can perform while in idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate in idle mode.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible when the system is idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can be done in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you elaborate on the tasks possible while idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functions that are active in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the capabilities of the system when not in use.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are enabled in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks I can execute while the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the available options during idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions are permitted in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the functionalities during idle periods?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe what can be accomplished when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What features are accessible while idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the available operations in idle mode.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the things I can do while the system is idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the functions that remain active during idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions are supported when the system is not in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the available functionalities when idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What tasks are allowed during idle periods?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations I can undertake while in idle mode.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the features that are functional in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the capabilities that are available in idle mode.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are operational while the system is idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks permitted during idle periods?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the functionalities that are active when idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can I initiate when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features during periods of inactivity.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are supported in idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the operations allowed while in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are enabled during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the features that remain accessible while idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the operations I can perform during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the tasks that are functional when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are open for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during inactive periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the operations I can undertake while in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are available when the system is idle?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks permitted during periods of inactivity.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can I execute when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the features that are active while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain accessible when idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the functionalities that are functional in idle mode.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can be accomplished when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are available for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain accessible in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are open for execution when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that are available during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are supported when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain accessible when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of inactivity?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functionalities that are open for use while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of inactivity?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of inactivity?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of inactivity?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during idle state?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is idle.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is not actively in use?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in idle mode?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of inactivity?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in idle state.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is not actively used?",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during idle periods.",
+    "answer": "idle_functionalities"
+  },
+  {
+    "question": "Can you tell me my location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the place I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly am I right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "In which city am I located?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide details about my whereabouts?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the specific location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you let me know my current place?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my present location?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the name of the place I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where can I find myself geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you give me information about the place I'm situated?",
+    "answer": "location"
+  },
+  {
+    "question": "In what region am I currently located?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the area I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I find myself?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you reveal my current geographic coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where specifically am I situated right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me the name of my current position?",
+    "answer": "location"
+  },
+  {
+    "question": "In which part of the world am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about my location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the address of the place I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I currently positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose the details of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the city or town I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the map?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you inform me about my geographical position?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the precise place I'm located at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I stand?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you reveal the name of my present position?",
+    "answer": "location"
+  },
+  {
+    "question": "What is my current GPS location?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I situated right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me the specific area I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place where I am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I find myself currently?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you provide details about my current geographical location?",
+    "answer": "location"
+  },
+  {
+    "question": "In what locality am I presently located?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the region I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the global map?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my current coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place I'm located right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I physically situated?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me my precise location?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the city or town where I currently find myself?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about the region I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the exact spot where I am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I stand geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about my current coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the specific location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where can I be found at the moment?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose my current address?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the town or city I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where in the world am I?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my present location on the map?",
+    "answer": "location"
+  },
+  {
+    "question": "What is my location currently?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I located geographically?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you provide details about my current place?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the area where I am right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where specifically am I positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you reveal my current geographic position?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the precise geographic location I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I find myself on the Earth's surface?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you tell me the name of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "In what part of the city am I situated?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the place where I'm physically present?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I currently residing?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you disclose the name of the city or town I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the exact location I'm at right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on the map can I be located?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you inform me about the specific spot I'm in?",
+    "answer": "location"
+  },
+  {
+    "question": "What is the name of my current location?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I presently positioned?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my geographical coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the region I'm currently in?",
+    "answer": "location"
+  },
+  {
+    "question": "Where am I on the planet?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you provide information about my present location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the address of the place where I currently am?",
+    "answer": "location"
+  },
+  {
+    "question": "Where exactly do I find myself at this moment?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you reveal my current geographic coordinates?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the specific place I'm at?",
+    "answer": "location"
+  },
+  {
+    "question": "Where do I stand geographically right now?",
+    "answer": "location"
+  },
+  {
+    "question": "Can you tell me my exact location?",
+    "answer": "location"
+  },
+  {
+    "question": "What's the name of the city or town where I'm located?",
+    "answer": "location"
+  },
+  {
+    "question": "Where on Earth am I currently situated?",
+    "answer": "location"
+  },
+  {
+    "question": "Could you disclose details about my current location?",
+    "answer": "location"
+  },
+  {
+    "question": " How should I address you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you tell me your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What do people call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given name?",
+    "answer": "name"
+  },
+  {
+    "question": "Do you have a name?",
+    "answer": "name"
+  },
+  {
+    "question": "Could you share your name with me?",
+    "answer": "name"
+  },
+  {
+    "question": "What are you called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your title?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I refer to you?",
+    "answer": "name"
+  },
+  {
+    "question": "What name were you given?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you introduce yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What label do you go by?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identification?",
+    "answer": "name"
+  },
+  {
+    "question": "Any specific name I should know?",
+    "answer": "name"
+  },
+  {
+    "question": "How do others recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your appellation?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I identify you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your name?",
+    "answer": "name"
+  },
+  {
+    "question": "Any particular name you respond to?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identity marker?",
+    "answer": "name"
+  },
+  {
+    "question": "What were you named?",
+    "answer": "name"
+  },
+  {
+    "question": "What are you named after?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tag?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your designation?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given label?",
+    "answer": "name"
+  },
+  {
+    "question": "What were you baptized as?",
+    "answer": "name"
+  },
+  {
+    "question": "How do others know you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you let me know your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your name tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I know you?",
+    "answer": "name"
+  },
+  {
+    "question": "Do you have a specific title?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your given identity?",
+    "answer": "name"
+  },
+  {
+    "question": "How do people address you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your title?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I acknowledge you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your title of address?",
+    "answer": "name"
+  },
+  {
+    "question": "Any specific name you prefer?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I call upon you?",
+    "answer": "name"
+  },
+  {
+    "question": "What name do you bear?",
+    "answer": "name"
+  },
+  {
+    "question": "What should I call you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your handle?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I designate you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your cognomen?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you go by?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you share your designation?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your identity called?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I differentiate you?",
+    "answer": "name"
+  },
+  {
+    "question": "What do you answer to?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your nameplate?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your byname?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you introduce yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be addressed?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you unveil your name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your personal tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you identify yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tagline?",
+    "answer": "name"
+  },
+  {
+    "question": "What name do you carry?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I recognize you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your byword?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I recognize you by name?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you sign yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-identity?",
+    "answer": "name"
+  },
+  {
+    "question": "How would I name you?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you reveal your moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you present yourself?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your official title?",
+    "answer": "name"
+  },
+  {
+    "question": "How can I refer to you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What name were you given at birth?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your tag of identification?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I address you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your formal designation?",
+    "answer": "name"
+  },
+  {
+    "question": "How may I address you properly?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label for recognition?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you prefer to be called?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your formal moniker?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-chosen name?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be recognized?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your appellation of choice?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you share your self-identity?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your name tag of preference?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I acknowledge you formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label for formal addressing?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be addressed formally?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your preferred name for recognition?",
+    "answer": "name"
+  },
+  {
+    "question": "Can you disclose your formal identification?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen title?",
+    "answer": "name"
+  },
+  {
+    "question": "How should I formally know you?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your self-chosen identifier?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your chosen tag?",
+    "answer": "name"
+  },
+  {
+    "question": "How do you like to be formally addressed?",
+    "answer": "name"
+  },
+  {
+    "question": "What's your label of choice for recognition?",
+    "answer": "name"
+  },
+  {
+    "question": "What activities are available in navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you list the functions I can perform while in navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible when the system is in navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What can be done in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you elaborate on the tasks possible while navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the functions that are active in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the capabilities of the system when in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are enabled in navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks I can execute while the system is in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the available options during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions are permitted in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the functionalities during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe what can be accomplished when the system is in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What features are accessible while navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the operations allowed during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you list the things I can do while the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the functions that remain active during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions are supported when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the available functionalities when in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What tasks are allowed during navigation periods?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations I can undertake while in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the features that are functional in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the capabilities that are available in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functions are operational while the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain accessible during navigation periods?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the functionalities that are active when in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions can I initiate when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the available features during periods of navigation.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are supported in navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you list the operations allowed while in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are permitted during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the features that remain accessible while navigating.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What can I do when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the operations I can perform during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the tasks that are functional when the system is in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are open for use during navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during periods of navigation.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you detail the operations I can undertake while in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functions are available when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the tasks permitted during periods of navigation.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions can I execute when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the features that are active while in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain accessible when in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the functionalities that are functional in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What can be accomplished when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of navigation?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during navigation state?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is in navigation mode.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in navigation mode?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of navigation?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in navigation state.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is actively navigating?",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during navigation periods.",
+    "answer": "navigation_functionalities"
+  },
+  {
+    "question": "What activities are available in reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the functions I can perform while in reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible when the system is in reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can be done in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you elaborate on the tasks possible while reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the functions that are active in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the capabilities of the system when in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are enabled in reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks I can execute while the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the available options during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions are permitted in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the functionalities during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe what can be accomplished when the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What features are accessible while reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the available operations in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the things I can do while the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the functions that remain active during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions are supported when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the available functionalities when in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What tasks are allowed during reading periods?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations I can undertake while in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the features that are functional in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the capabilities that are available in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functions are operational while the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain accessible during reading periods?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the functionalities that are active when in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions can I initiate when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the available features during periods of reading.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are supported in reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the operations allowed while in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are permitted during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the features that remain accessible while reading.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can I do when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the operations I can perform during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the tasks that are functional when the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are open for use during reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the available features during periods of reading.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you detail the operations I can undertake while in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functions are available when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks permitted during periods of reading.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions can I execute when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the features that are active while in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain accessible when in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the functionalities that are functional in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can be accomplished when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks I can initiate during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functionalities are accessible for use during reading state?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you list the features that remain active in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the tasks that are available for execution when the system is in reading mode.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Elaborate on the operations that remain open during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What functions are operational when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the available features for utilization during reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Can you detail the tasks that remain open when the system is in reading mode?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What actions can be executed during periods of reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "List the functionalities that are available for use while in reading state.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Tell me about the operations that remain active during reading periods.",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "What can I do during periods when the system is actively reading?",
+    "answer": "reading_functionalities"
+  },
+  {
+    "question": "Describe the tasks that are open for initiation during reading periods.",
+    "answer": "reading_functionalities"
+  }
+]
