@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Great Barrier Reef located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the process of photosynthesis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of Earth's atmosphere?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the United States declare independence?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Mount Everest located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who was the first man to step on the moon?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'ephemeral'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which century did the Renaissance begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Bard of Avon'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the pH of pure water?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Taj Mahal located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of sound in air?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of evolution by natural selection?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Nile River located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Last Supper?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the American Civil War end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest species of big cat?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'ubiquitous'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of psychoanalysis?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Amazon Rainforest located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the speed of a cheetah?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Industrial Revolution begin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the polio vaccine?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main gas responsible for the greenhouse effect?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'Father of Medicine'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest moon of Saturn?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Cold War end?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Four Seasons'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is Machu Picchu located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of continental drift?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which century was the first computer invented?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who painted the Guernica?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the meaning of the word 'esoteric'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who discovered the first antibiotic?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the population of China?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which year did the Russian Revolution occur?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who is known as the 'King of Rock and Roll'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the currency of India?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the main component of the Earth's core?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who wrote 'The Iliad'?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "What is the boiling point of water in Kelvin?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "In which country is the Serengeti National Park located?",
+    "answer": "general_knowledge"
+  },
+  {
+    "question": "Who composed the 'Ode to Joy'?",
+    "answer": "general_knowledge"
+  }
+]
