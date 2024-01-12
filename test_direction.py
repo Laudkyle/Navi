@@ -33,6 +33,6 @@ def predict_direction(input_text, tokenizer, max_sequence_length):
 
 # Example usage
 input_question = "What's in my hand?"
-max_sequence_length = 9  # Replace with the actual max_sequence_length used during training
+max_sequence_length = 9 
 predicted_direction = predict_direction(input_question, tokenizer, max_sequence_length)
 print(f"Predicted Direction: {predicted_direction}")

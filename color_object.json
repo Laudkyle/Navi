@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Can you find out the color of this table?",
+    "answer": { "function": "color_detection", "object": "table" }
+  },
+  {
+    "question": "I need to identify the color of this bowl.",
+    "answer": { "function": "color_detection", "object": "bowl" }
+  },
+  {
+    "question": "Tell me what color you perceive in this plate.",
+    "answer": { "function": "color_detection", "object": "plate" }
+  },
+  {
+    "question": "Inform me about the color of this globe, please.",
+    "answer": { "function": "color_detection", "object": "globe" }
+  },
+  {
+    "question": "What color does this flag appear to be?",
+    "answer": { "function": "color_detection", "object": "flag" }
+  },
+  {
+    "question": "I'd like to know the color of this phone.",
+    "answer": { "function": "color_detection", "object": "phone" }
+  },
+  {
+    "question": "Can you describe the color of this pomade?",
+    "answer": { "function": "color_detection", "object": "pomade" }
+  },
+  {
+    "question": "Give me details about the color of this comb.",
+    "answer": { "function": "color_detection", "object": "comb" }
+  },
+  {
+    "question": "What's your understanding of the color of this shoe?",
+    "answer": { "function": "color_detection", "object": "shoe" }
+  },
+  {
+    "question": "Can you recognize the color of this slippers?",
+    "answer": { "function": "color_detection", "object": "slippers" }
+  },
+  {
+    "question": "I want to learn about the color of this office.",
+    "answer": { "function": "color_detection", "object": "office" }
+  },
+  {
+    "question": "Could you let me know the color of this brush?",
+    "answer": { "function": "color_detection", "object": "brush" }
+  },
+  {
+    "question": "Provide information on the color of this book.",
+    "answer": { "function": "color_detection", "object": "book" }
+  },
+  {
+    "question": "Is there a way to tell the color of this monitor?",
+    "answer": { "function": "color_detection", "object": "monitor" }
+  },
+  {
+    "question": "I'm interested in the color of this stapler.",
+    "answer": { "function": "color_detection", "object": "stapler" }
+  },
+  {
+    "question": "Can you determine the color of this paper?",
+    "answer": { "function": "color_detection", "object": "paper" }
+  },
+  {
+    "question": "Let me know the color of this pencil.",
+    "answer": { "function": "color_detection", "object": "pencil" }
+  },
+  {
+    "question": "I wonder what color this mug has.",
+    "answer": { "function": "color_detection", "object": "mug" }
+  },
+  {
+    "question": "Could you describe the color of this laptop?",
+    "answer": { "function": "color_detection", "object": "laptop" }
+  },
+  {
+    "question": "I'm curious about the color of this keyboard.",
+    "answer": { "function": "color_detection", "object": "keyboard" }
+  },
+  {
+    "question": "Can you figure out the color of this mouse?",
+    "answer": { "function": "color_detection", "object": "mouse" }
+  },
+  {
+    "question": "Tell me the color of this calculator.",
+    "answer": { "function": "color_detection", "object": "calculator" }
+  },
+  {
+    "question": "I'd like to learn about the color of this clock.",
+    "answer": { "function": "color_detection", "object": "clock" }
+  },
+  {
+    "question": "Is there a way to recognize the color of this lamp?",
+    "answer": { "function": "color_detection", "object": "lamp" }
+  },
+  {
+    "question": "Describe the color of this paperclip for me, please.",
+    "answer": { "function": "color_detection", "object": "paperclip" }
+  },
+  {
+    "question": "What's the apparent color of this stapler?",
+    "answer": { "function": "color_detection", "object": "stapler" }
+  },
+  {
+    "question": "Help me understand the color of this phone.",
+    "answer": { "function": "color_detection", "object": "phone" }
+  },
+  {
+    "question": "Can you find out the color of this book?",
+    "answer": { "function": "color_detection", "object": "book" }
+  },
+  {
+    "question": "What color is this pen?",
+    "answer": { "function": "color_detection", "object": "pen" }
+  },
+  {
+    "question": "Can you find out the color of this chair?",
+    "answer": { "function": "color_detection", "object": "chair" }
+  },
+  {
+    "question": "I need to identify the color of this plate.",
+    "answer": { "function": "color_detection", "object": "plate" }
+  },
+  {
+    "question": "Tell me what color you perceive in this clock.",
+    "answer": { "function": "color_detection", "object": "clock" }
+  },
+  {
+    "question": "Inform me about the color of this mug, please.",
+    "answer": { "function": "color_detection", "object": "mug" }
+  },
+  {
+    "question": "What color does this keyboard appear to be?",
+    "answer": { "function": "color_detection", "object": "keyboard" }
+  },
+  {
+    "question": "I'd like to know the color of this stapler.",
+    "answer": { "function": "color_detection", "object": "stapler" }
+  },
+  {
+    "question": "Can you describe the color of this paperclip?",
+    "answer": { "function": "color_detection", "object": "paperclip" }
+  },
+  {
+    "question": "Give me details about the color of this lamp.",
+    "answer": { "function": "color_detection", "object": "lamp" }
+  },
+  {
+    "question": "What's your understanding of the color of this monitor?",
+    "answer": { "function": "color_detection", "object": "monitor" }
+  },
+  {
+    "question": "Can you recognize the color of this brush?",
+    "answer": { "function": "color_detection", "object": "brush" }
+  },
+  {
+    "question": "I want to learn about the color of this calculator.",
+    "answer": { "function": "color_detection", "object": "calculator" }
+  },
+  {
+    "question": "Could you let me know the color of this book?",
+    "answer": { "function": "color_detection", "object": "book" }
+  },
+  {
+    "question": "Provide information on the color of this mouse.",
+    "answer": { "function": "color_detection", "object": "mouse" }
+  },
+  {
+    "question": "Is there a way to tell the color of this paper?",
+    "answer": { "function": "color_detection", "object": "paper" }
+  },
+  {
+    "question": "I'm interested in the color of this pencil.",
+    "answer": { "function": "color_detection", "object": "pencil" }
+  },
+  {
+    "question": "Can you determine the color of this pomade?",
+    "answer": { "function": "color_detection", "object": "pomade" }
+  },
+  {
+    "question": "Let me know the color of this shoe.",
+    "answer": { "function": "color_detection", "object": "shoe" }
+  },
+  {
+    "question": "I wonder what color this phone has.",
+    "answer": { "function": "color_detection", "object": "phone" }
+  },
+  {
+    "question": "Could you describe the color of this comb?",
+    "answer": { "function": "color_detection", "object": "comb" }
+  },
+  {
+    "question": "I'm curious about the color of this flag.",
+    "answer": { "function": "color_detection", "object": "flag" }
+  },
+  {
+    "question": "Can you figure out the color of this slippers?",
+    "answer": { "function": "color_detection", "object": "slippers" }
+  },
+  {
+    "question": "Tell me the color of this stapler.",
+    "answer": { "function": "color_detection", "object": "stapler" }
+  },
+  {
+    "question": "I'd like to learn about the color of this office.",
+    "answer": { "function": "color_detection", "object": "office" }
+  },
+  {
+    "question": "Is there a way to recognize the color of this globe?",
+    "answer": { "function": "color_detection", "object": "globe" }
+  },
+  {
+    "question": "Describe the color of this brush for me, please.",
+    "answer": { "function": "color_detection", "object": "brush" }
+  },
+  {
+    "question": "What's the apparent color of this book?",
+    "answer": { "function": "color_detection", "object": "book" }
+  },
+  {
+    "question": "Help me understand the color of this phone.",
+    "answer": { "function": "color_detection", "object": "phone" }
+  },
+  {
+    "question": "Can you find out the color of this monitor?",
+    "answer": { "function": "color_detection", "object": "monitor" }
+  },
+  {
+    "question": "I need to identify the color of this paperclip.",
+    "answer": { "function": "color_detection", "object": "paperclip" }
+  },
+  {
+    "question": "Tell me what color you perceive in this comb.",
+    "answer": { "function": "color_detection", "object": "comb" }
+  },
+  {
+    "question": "Inform me about the color of this mug, please.",
+    "answer": { "function": "color_detection", "object": "mug" }
+  },
+  {
+    "question": "What color does this stapler appear to be?",
+    "answer": { "function": "color_detection", "object": "stapler" }
+  },
+  {
+    "question": "I'd like to know the color of this calculator.",
+    "answer": { "function": "color_detection", "object": "calculator" }
+  },
+  {
+    "question": "Can you describe the color of this clock?",
+    "answer": { "function": "color_detection", "object": "clock" }
+  }
+]
