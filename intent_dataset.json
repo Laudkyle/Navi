@@ -4681,903 +4681,1453 @@
   },
   {
     "question": "What am I holding?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "center"
+      ]
+    }
   },
   {
     "question": "Can you recognize the objects around me?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the scene to me.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Tell me about the items in front of me.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "What's in my hand right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "center"
+      ]
+    }
   },
   {
     "question": "Identify the objects in my vicinity.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the things in my surroundings.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize this item for me?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "center"
+      ]
+    }
   },
   {
     "question": "What objects are present in my environment?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Tell me about the items on my left.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in my right hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Identify the objects on my right.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe what's in front of me.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What am I holding in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Identify the items around me.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the objects on my right.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What's in my surroundings?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my right hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Tell me about the things on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What do you see in front of you?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe what's in my hands.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "What's on my right side?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Identify the items in my left hand.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my hands?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the things on my left.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Identify the items on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What am I holding in my right hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What do you see around me?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the objects on my right.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the things on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe what's in my hands.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "What's on my right side?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Identify the items in my left hand.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my hands?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the things on my left.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Identify the items on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What am I holding in my right hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What do you see around me?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the objects on my right.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the things on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe what's in my hands.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "What's on my right side?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Identify the items in my left hand.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my hands?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the things on my left.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Identify the items on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What am I holding in my right hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What do you see around me?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the objects on my right.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the things on my right side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe what's in my hands.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "What's on my right side?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "right"
+      ]
+    }
   },
   {
     "question": "Identify the items in my left hand.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "Tell me about the objects on my left side.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in front of me right now?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "center",
+        "right"
+      ]
+    }
   },
   {
     "question": "Can you recognize the items in my hands?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left",
+        "right"
+      ]
+    }
   },
   {
     "question": "Describe the things on my left.",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
     "question": "What's in my left hand?",
-    "answer": "object_detection"
+    "answer": {
+      "function": "object_detection",
+      "direction": [
+        "left"
+      ]
+    }
   },
   {
-    "question": "Identify the items on my left side.",
-    "answer": "object_detection"
+    "question": "What color is this chair?",
+    "answer": {
+      "function": "color_detection",
+      "object": "chair"
+    }
   },
   {
-    "question": "Tell me about the objects on my right side.",
-    "answer": "object_detection"
+    "question": "Can you find out the color of this table?",
+    "answer": {
+      "function": "color_detection",
+      "object": "table"
+    }
   },
   {
-    "question": "What am I holding in my right hand?",
-    "answer": "object_detection"
+    "question": "I need to identify the color of this bowl.",
+    "answer": {
+      "function": "color_detection",
+      "object": "bowl"
+    }
   },
   {
-    "question": "What do you see around me?",
-    "answer": "object_detection"
+    "question": "Tell me what color you perceive in this plate.",
+    "answer": {
+      "function": "color_detection",
+      "object": "plate"
+    }
   },
   {
-    "question": "Describe the objects on my right.",
-    "answer": "object_detection"
+    "question": "Inform me about the color of this globe, please.",
+    "answer": {
+      "function": "color_detection",
+      "object": "globe"
+    }
   },
   {
-    "question": "Can you recognize the items in my left hand?",
-    "answer": "object_detection"
+    "question": "What color does this flag appear to be?",
+    "answer": {
+      "function": "color_detection",
+      "object": "flag"
+    }
   },
   {
-    "question": "What color is this?",
-    "answer": "color_detection"
+    "question": "I'd like to know the color of this phone.",
+    "answer": {
+      "function": "color_detection",
+      "object": "phone"
+    }
   },
   {
-    "question": "Can you tell me the color?",
-    "answer": "color_detection"
+    "question": "Can you describe the color of this pomade?",
+    "answer": {
+      "function": "color_detection",
+      "object": "pomade"
+    }
   },
   {
-    "question": "Describe the color to me.",
-    "answer": "color_detection"
+    "question": "Give me details about the color of this comb.",
+    "answer": {
+      "function": "color_detection",
+      "object": "comb"
+    }
   },
   {
-    "question": "Identify the color, please.",
-    "answer": "color_detection"
+    "question": "What's your understanding of the color of this shoe?",
+    "answer": {
+      "function": "color_detection",
+      "object": "shoe"
+    }
   },
   {
-    "question": "What's the color of this object?",
-    "answer": "color_detection"
+    "question": "Can you recognize the color of this slippers?",
+    "answer": {
+      "function": "color_detection",
+      "object": "slippers"
+    }
   },
   {
-    "question": "I need to know the color.",
-    "answer": "color_detection"
+    "question": "I want to learn about the color of this office.",
+    "answer": {
+      "function": "color_detection",
+      "object": "office"
+    }
   },
   {
-    "question": "Could you recognize the color?",
-    "answer": "color_detection"
+    "question": "Could you let me know the color of this brush?",
+    "answer": {
+      "function": "color_detection",
+      "object": "brush"
+    }
   },
   {
-    "question": "Tell me about the color.",
-    "answer": "color_detection"
+    "question": "Provide information on the color of this book.",
+    "answer": {
+      "function": "color_detection",
+      "object": "book"
+    }
   },
   {
-    "question": "What color does it seem to be?",
-    "answer": "color_detection"
+    "question": "Is there a way to tell the color of this monitor?",
+    "answer": {
+      "function": "color_detection",
+      "object": "monitor"
+    }
   },
   {
-    "question": "Provide information about the color.",
-    "answer": "color_detection"
+    "question": "I'm interested in the color of this stapler.",
+    "answer": {
+      "function": "color_detection",
+      "object": "stapler"
+    }
   },
   {
-    "question": "Is there a way to find out the color?",
-    "answer": "color_detection"
+    "question": "Can you determine the color of this paper?",
+    "answer": {
+      "function": "color_detection",
+      "object": "paper"
+    }
   },
   {
-    "question": "I'm curious about the color.",
-    "answer": "color_detection"
+    "question": "Let me know the color of this pencil.",
+    "answer": {
+      "function": "color_detection",
+      "object": "pencil"
+    }
   },
   {
-    "question": "Give me insights into the color.",
-    "answer": "color_detection"
+    "question": "I wonder what color this mug has.",
+    "answer": {
+      "function": "color_detection",
+      "object": "mug"
+    }
   },
   {
-    "question": "Can you determine the color for me?",
-    "answer": "color_detection"
+    "question": "Could you describe the color of this laptop?",
+    "answer": {
+      "function": "color_detection",
+      "object": "laptop"
+    }
   },
   {
-    "question": "Let me know the color, please.",
-    "answer": "color_detection"
+    "question": "I'm curious about the color of this keyboard.",
+    "answer": {
+      "function": "color_detection",
+      "object": "keyboard"
+    }
   },
   {
-    "question": "I wonder what color it is.",
-    "answer": "color_detection"
+    "question": "Can you figure out the color of this mouse?",
+    "answer": {
+      "function": "color_detection",
+      "object": "mouse"
+    }
   },
   {
-    "question": "Could you describe the color?",
-    "answer": "color_detection"
+    "question": "Tell me the color of this calculator.",
+    "answer": {
+      "function": "color_detection",
+      "object": "calculator"
+    }
   },
   {
-    "question": "I'm interested in the color.",
-    "answer": "color_detection"
+    "question": "I'd like to learn about the color of this clock.",
+    "answer": {
+      "function": "color_detection",
+      "object": "clock"
+    }
   },
   {
-    "question": "Can you figure out the color?",
-    "answer": "color_detection"
+    "question": "Is there a way to recognize the color of this lamp?",
+    "answer": {
+      "function": "color_detection",
+      "object": "lamp"
+    }
   },
   {
-    "question": "Tell me the color of the object.",
-    "answer": "color_detection"
+    "question": "Describe the color of this paperclip for me, please.",
+    "answer": {
+      "function": "color_detection",
+      "object": "paperclip"
+    }
   },
   {
-    "question": "I'd like to learn about the color.",
-    "answer": "color_detection"
+    "question": "What's the apparent color of this stapler?",
+    "answer": {
+      "function": "color_detection",
+      "object": "stapler"
+    }
   },
   {
-    "question": "Is there a way to recognize the color?",
-    "answer": "color_detection"
+    "question": "Help me understand the color of this phone.",
+    "answer": {
+      "function": "color_detection",
+      "object": "phone"
+    }
   },
   {
-    "question": "Describe the color for me, please.",
-    "answer": "color_detection"
+    "question": "Can you find out the color of this book?",
+    "answer": {
+      "function": "color_detection",
+      "object": "book"
+    }
   },
   {
-    "question": "What's the apparent color?",
-    "answer": "color_detection"
+    "question": "What color is this pen?",
+    "answer": {
+      "function": "color_detection",
+      "object": "pen"
+    }
   },
   {
-    "question": "Help me understand the color.",
-    "answer": "color_detection"
+    "question": "Can you find out the color of this chair?",
+    "answer": {
+      "function": "color_detection",
+      "object": "chair"
+    }
   },
   {
-    "question": "Can you find out the color?",
-    "answer": "color_detection"
+    "question": "I need to identify the color of this plate.",
+    "answer": {
+      "function": "color_detection",
+      "object": "plate"
+    }
   },
   {
-    "question": "I need to identify the color.",
-    "answer": "color_detection"
+    "question": "Tell me what color you perceive in this clock.",
+    "answer": {
+      "function": "color_detection",
+      "object": "clock"
+    }
   },
   {
-    "question": "Tell me what color you perceive.",
-    "answer": "color_detection"
+    "question": "Inform me about the color of this mug, please.",
+    "answer": {
+      "function": "color_detection",
+      "object": "mug"
+    }
   },
   {
-    "question": "Inform me about the color, please.",
-    "answer": "color_detection"
+    "question": "What color does this keyboard appear to be?",
+    "answer": {
+      "function": "color_detection",
+      "object": "keyboard"
+    }
   },
   {
-    "question": "What color does it appear to be?",
-    "answer": "color_detection"
+    "question": "I'd like to know the color of this stapler.",
+    "answer": {
+      "function": "color_detection",
+      "object": "stapler"
+    }
   },
   {
-    "question": "I'd like to know the color.",
-    "answer": "color_detection"
+    "question": "Can you describe the color of this paperclip?",
+    "answer": {
+      "function": "color_detection",
+      "object": "paperclip"
+    }
   },
   {
-    "question": "Can you describe the color to me?",
-    "answer": "color_detection"
+    "question": "Give me details about the color of this lamp.",
+    "answer": {
+      "function": "color_detection",
+      "object": "lamp"
+    }
   },
   {
-    "question": "Give me details about the color.",
-    "answer": "color_detection"
+    "question": "What's your understanding of the color of this monitor?",
+    "answer": {
+      "function": "color_detection",
+      "object": "monitor"
+    }
   },
   {
-    "question": "What's your understanding of the color?",
-    "answer": "color_detection"
+    "question": "Can you recognize the color of this brush?",
+    "answer": {
+      "function": "color_detection",
+      "object": "brush"
+    }
   },
   {
-    "question": "Can you recognize the color?",
-    "answer": "color_detection"
+    "question": "I want to learn about the color of this calculator.",
+    "answer": {
+      "function": "color_detection",
+      "object": "calculator"
+    }
   },
   {
-    "question": "I want to learn about the color.",
-    "answer": "color_detection"
+    "question": "Could you let me know the color of this book?",
+    "answer": {
+      "function": "color_detection",
+      "object": "book"
+    }
   },
   {
-    "question": "Could you let me know the color?",
-    "answer": "color_detection"
+    "question": "Provide information on the color of this mouse.",
+    "answer": {
+      "function": "color_detection",
+      "object": "mouse"
+    }
   },
   {
-    "question": "Provide information on the color.",
-    "answer": "color_detection"
+    "question": "Is there a way to tell the color of this paper?",
+    "answer": {
+      "function": "color_detection",
+      "object": "paper"
+    }
   },
   {
-    "question": "Is there a way to tell the color?",
-    "answer": "color_detection"
+    "question": "I'm interested in the color of this pencil.",
+    "answer": {
+      "function": "color_detection",
+      "object": "pencil"
+    }
   },
   {
-    "question": "I'm interested in the color of this object.",
-    "answer": "color_detection"
+    "question": "Can you determine the color of this pomade?",
+    "answer": {
+      "function": "color_detection",
+      "object": "pomade"
+    }
   },
   {
-    "question": "Can you determine the color?",
-    "answer": "color_detection"
+    "question": "Let me know the color of this shoe.",
+    "answer": {
+      "function": "color_detection",
+      "object": "shoe"
+    }
   },
   {
-    "question": "Let me know the color of the object.",
-    "answer": "color_detection"
+    "question": "I wonder what color this phone has.",
+    "answer": {
+      "function": "color_detection",
+      "object": "phone"
+    }
   },
   {
-    "question": "I wonder what color it has.",
-    "answer": "color_detection"
+    "question": "Could you describe the color of this comb?",
+    "answer": {
+      "function": "color_detection",
+      "object": "comb"
+    }
   },
   {
-    "question": "Could you describe the color?",
-    "answer": "color_detection"
+    "question": "I'm curious about the color of this flag.",
+    "answer": {
+      "function": "color_detection",
+      "object": "flag"
+    }
   },
   {
-    "question": "I'm curious about the color.",
-    "answer": "color_detection"
+    "question": "Can you figure out the color of this slippers?",
+    "answer": {
+      "function": "color_detection",
+      "object": "slippers"
+    }
   },
   {
-    "question": "Can you figure out the color?",
-    "answer": "color_detection"
+    "question": "Tell me the color of this stapler.",
+    "answer": {
+      "function": "color_detection",
+      "object": "stapler"
+    }
   },
   {
-    "question": "Tell me the color of the object.",
-    "answer": "color_detection"
+    "question": "I'd like to learn about the color of this office.",
+    "answer": {
+      "function": "color_detection",
+      "object": "office"
+    }
   },
   {
-    "question": "I'd like to learn about the color.",
-    "answer": "color_detection"
+    "question": "Is there a way to recognize the color of this globe?",
+    "answer": {
+      "function": "color_detection",
+      "object": "globe"
+    }
   },
   {
-    "question": "Is there a way to recognize the color?",
-    "answer": "color_detection"
+    "question": "Describe the color of this brush for me, please.",
+    "answer": {
+      "function": "color_detection",
+      "object": "brush"
+    }
   },
   {
-    "question": "Describe the color for me, please.",
-    "answer": "color_detection"
+    "question": "What's the apparent color of this book?",
+    "answer": {
+      "function": "color_detection",
+      "object": "book"
+    }
   },
   {
-    "question": "What's the apparent color?",
-    "answer": "color_detection"
+    "question": "Help me understand the color of this phone.",
+    "answer": {
+      "function": "color_detection",
+      "object": "phone"
+    }
   },
   {
-    "question": "Help me understand the color.",
-    "answer": "color_detection"
+    "question": "Can you find out the color of this monitor?",
+    "answer": {
+      "function": "color_detection",
+      "object": "monitor"
+    }
   },
   {
-    "question": "Can you find out the color?",
-    "answer": "color_detection"
+    "question": "I need to identify the color of this paperclip.",
+    "answer": {
+      "function": "color_detection",
+      "object": "paperclip"
+    }
   },
   {
-    "question": "I need to identify the color.",
-    "answer": "color_detection"
+    "question": "Tell me what color you perceive in this comb.",
+    "answer": {
+      "function": "color_detection",
+      "object": "comb"
+    }
   },
   {
-    "question": "Tell me what color you perceive.",
-    "answer": "color_detection"
+    "question": "Inform me about the color of this mug, please.",
+    "answer": {
+      "function": "color_detection",
+      "object": "mug"
+    }
   },
   {
-    "question": "Inform me about the color, please.",
-    "answer": "color_detection"
+    "question": "What color does this stapler appear to be?",
+    "answer": {
+      "function": "color_detection",
+      "object": "stapler"
+    }
   },
   {
-    "question": "What color does it appear to be?",
-    "answer": "color_detection"
+    "question": "I'd like to know the color of this calculator.",
+    "answer": {
+      "function": "color_detection",
+      "object": "calculator"
+    }
   },
   {
-    "question": "Can you read the text for me?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm curious, what's written in this document?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Could you help me understand the content of this text?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I wonder what's written on this page, can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written in the book you're holding?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I need assistance with reading this text, can you help?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Is there any text on this paper? If so, what does it say?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a document here, could you read the text aloud?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's the content of this text file?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a letter, could you read it for me?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Are there any words on this screen? Can you read them?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm exploring this webpage, can you read the text on it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Could you describe what's written on this sign?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm encountering a block of text, can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What information is written on this label?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm handed a document, could you read the contents?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Can you interpret the text in this email for me?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm browsing a page, can you read the text on it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written on this packaging? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a card, could you read the message?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Is there any text in this chat? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a note here, can you read what's written?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written on this screen? Can you read it out loud?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm exploring a webpage, can you read the text content?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Can you describe the words on this poster?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm presented with a document, could you read it aloud?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Could you provide the information written in this article?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm given a letter, can you read the text?",
-    "answer": "read_text"
+    "question": "Can you describe the color of this clock?",
+    "answer": {
+      "function": "color_detection",
+      "object": "clock"
+    }
   },
   {
     "question": "What's written on this page of the book? Can you read it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "book"
+    }
   },
   {
     "question": "I need assistance with reading this text file, can you help?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
   },
   {
     "question": "What's the content of this written material? Can you read it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "written material"
+    }
+  },
+  {
+    "question": "I'm given a letter, can you read the text?",
+    "answer": {
+      "function": "read_text",
+      "object": "letter"
+    }
+  },
+  {
+    "question": "Could you provide the information written in this article?",
+    "answer": {
+      "function": "read_text",
+      "object": "article"
+    }
   },
   {
     "question": "I'm holding a document, could you read the text aloud?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "document"
+    }
   },
   {
-    "question": "Are there any words on this document? Can you read them?",
-    "answer": "read_text"
+    "question": "Are there any words in this chat? Can you read them?",
+    "answer": {
+      "function": "read_text",
+      "object": "chat"
+    }
   },
   {
     "question": "I have a text file, can you read the text in it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
   },
   {
-    "question": "What's written in the text document? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm browsing a webpage, can you read the text on it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Could you interpret the words on this website for me?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm handed a paper, could you read the contents?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Can you describe what's written on this digital screen?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm exploring a page, can you read the text content?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written on this digital display? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a note, could you read what's written?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Are there any words in this chat? Can you read them?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a document, can you read the text in it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written in this text file? Can you read it?",
-    "answer": "read_text"
+    "question": "What's written in this text document? Can you read it?",
+    "answer": {
+      "function": "read_text",
+      "object": "text document"
+    }
   },
   {
     "question": "I'm given a letter, can you read the text?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "letter"
+    }
   },
   {
     "question": "Could you provide the information written in this article?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "article"
+    }
   },
   {
     "question": "I'm holding a book, can you read the text on this page?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "book"
+    }
   },
   {
     "question": "What's written in this written material? Can you read it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "written material"
+    }
   },
   {
     "question": "I have a text file, could you read the text in it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
   },
   {
     "question": "Are there any words in this document? Can you read them?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "document"
+    }
   },
   {
     "question": "I'm browsing a webpage, can you read the text on it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "webpage"
+    }
   },
   {
     "question": "Can you interpret the words on this website for me?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "website"
+    }
   },
   {
     "question": "I'm handed a paper, could you read the contents?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "paper"
+    }
   },
   {
-    "question": "Can you describe what's written on this digital screen?",
-    "answer": "read_text"
+    "question": "What's written on this page of the book? Can you read it?",
+    "answer": {
+      "function": "read_text",
+      "object": "book"
+    }
   },
   {
-    "question": "I'm exploring a page, can you read the text content?",
-    "answer": "read_text"
+    "question": "I need assistance with reading this text file, can you help?",
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
   },
   {
-    "question": "What's written on this digital display? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a note, could you read what's written?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Are there any words in this chat? Can you read them?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a document, can you read the text in it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written in this text file? Can you read it?",
-    "answer": "read_text"
+    "question": "What's the content of this written material? Can you read it?",
+    "answer": {
+      "function": "read_text",
+      "object": "written material"
+    }
   },
   {
     "question": "I'm given a letter, can you read the text?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "letter"
+    }
   },
   {
     "question": "Could you provide the information written in this article?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "article"
+    }
+  },
+  {
+    "question": "I'm holding a document, could you read the text aloud?",
+    "answer": {
+      "function": "read_text",
+      "object": "document"
+    }
+  },
+  {
+    "question": "Are there any words in this chat? Can you read them?",
+    "answer": {
+      "function": "read_text",
+      "object": "chat"
+    }
+  },
+  {
+    "question": "I have a text file, can you read the text in it?",
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
+  },
+  {
+    "question": "What's written in this text document? Can you read it?",
+    "answer": {
+      "function": "read_text",
+      "object": "text document"
+    }
+  },
+  {
+    "question": "I'm given a letter, can you read the text?",
+    "answer": {
+      "function": "read_text",
+      "object": "letter"
+    }
+  },
+  {
+    "question": "Could you provide the information written in this article?",
+    "answer": {
+      "function": "read_text",
+      "object": "article"
+    }
   },
   {
     "question": "I'm holding a book, can you read the text on this page?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "book"
+    }
   },
   {
     "question": "What's written in this written material? Can you read it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "written material"
+    }
   },
   {
     "question": "I have a text file, could you read the text in it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "text file"
+    }
   },
   {
     "question": "Are there any words in this document? Can you read them?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "document"
+    }
   },
   {
     "question": "I'm browsing a webpage, can you read the text on it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "webpage"
+    }
   },
   {
     "question": "Can you interpret the words on this website for me?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "website"
+    }
   },
   {
     "question": "I'm handed a paper, could you read the contents?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Can you describe what's written on this digital screen?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm exploring a page, can you read the text content?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written on this digital display? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a note, could you read what's written?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Are there any words in this chat? Can you read them?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a document, can you read the text in it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written in this text file? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm given a letter, can you read the text?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Could you provide the information written in this article?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm holding a book, can you read the text on this page?",
-    "answer": "read_text"
-  },
-  {
-    "question": "What's written in this written material? Can you read it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I have a text file, could you read the text in it?",
-    "answer": "read_text"
-  },
-  {
-    "question": "Are there any words in this document? Can you read them?",
-    "answer": "read_text"
-  },
-  {
-    "question": "I'm browsing a webpage, can you read the text on it?",
-    "answer": "read_text"
+    "answer": {
+      "function": "read_text",
+      "object": "paper"
+    }
   },
   {
     "question": "What language is spoken in this audio?",
@@ -5780,248 +6330,628 @@
     "answer": "language_identification"
   },
   {
-    "question": "Can you help me understand this text?",
-    "answer": "translate"
+    "question": "Can you transform this text into Japanese? What is your favorite color?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Japanese",
+      "content": "What is your favorite color?"
+    }
   },
   {
-    "question": "Translate the content of this document.",
-    "answer": "translate"
+    "question": "Translate this paragraph to Italian. Have you ever traveled abroad?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Have you ever traveled abroad?"
+    }
   },
   {
-    "question": "I need assistance with language conversion.",
-    "answer": "translate"
+    "question": "I need assistance with language transformation. Tell me about your hobbies. Can you play the guitar?",
+    "answer": {
+      "function": "translate",
+      "end_language": "transformation",
+      "content": "Tell me about your hobbies. Can you play the guitar?"
+    }
   },
   {
-    "question": "Could you convert this text to another language?",
-    "answer": "translate"
+    "question": "Translate this content into Portuguese, please. What's your favorite food?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "What's your favorite food?"
+    }
   },
   {
-    "question": "Translate this paragraph into French.",
-    "answer": "translate"
+    "question": "Translate this text into Russian. Tell me about your family. Do you have any siblings?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Tell me about your family. Do you have any siblings?"
+    }
   },
   {
-    "question": "I'm looking for a translation service.",
-    "answer": "translate"
+    "question": "I require help in language transformation. What's your favorite movie? Have you seen the latest blockbuster?",
+    "answer": {
+      "function": "translate",
+      "end_language": "transformation",
+      "content": "What's your favorite movie? Have you seen the latest blockbuster?"
+    }
   },
   {
-    "question": "Can you transform this message for me?",
-    "answer": "translate"
+    "question": "Can you interpret this message for me? What's your favorite sport? Do you play any sports?",
+    "answer": {
+      "function": "translate",
+      "end_language": "interpretation",
+      "content": "What's your favorite sport? Do you play any sports?"
+    }
   },
   {
-    "question": "Translate the following sentences, please.",
-    "answer": "translate"
+    "question": "Translate this content to Italian. Describe your daily routine. What do you do for a living?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Describe your daily routine. What do you do for a living?"
+    }
   },
   {
-    "question": "I require assistance in translating a sentence.",
-    "answer": "translate"
+    "question": "I'm looking for language conversion assistance. What's your favorite music genre? Do you play any instruments?",
+    "answer": {
+      "function": "translate",
+      "end_language": "conversion",
+      "content": "What's your favorite music genre? Do you play any instruments?"
+    }
   },
   {
-    "question": "Can you help me with language interpretation?",
-    "answer": "translate"
+    "question": "Can you transform this text into Russian? What's your favorite season? Do you like winter?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "What's your favorite season? Do you like winter?"
+    }
   },
   {
-    "question": "Translate this passage to Spanish.",
-    "answer": "translate"
+    "question": "Translate this passage into Portuguese. Describe your ideal weekend. What activities do you enjoy?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Describe your ideal weekend. What activities do you enjoy?"
+    }
   },
   {
-    "question": "I'm in need of language conversion.",
-    "answer": "translate"
+    "question": "I need help understanding this sentence. What's your favorite place to visit? Have you traveled to any exotic locations?",
+    "answer": {
+      "function": "translate",
+      "end_language": "sentence",
+      "content": "What's your favorite place to visit? Have you traveled to any exotic locations?"
+    }
   },
   {
-    "question": "Can you convert this text into another language?",
-    "answer": "translate"
+    "question": "Can you convert this text into French? Describe your favorite cuisine. Do you enjoy cooking?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Describe your favorite cuisine. Do you enjoy cooking?"
+    }
   },
   {
-    "question": "Translate this document into German, please.",
-    "answer": "translate"
+    "question": "Translate this document into Chinese. What's your favorite animal? Do you have any pets?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "What's your favorite animal? Do you have any pets?"
+    }
   },
   {
-    "question": "I need help understanding this message.",
-    "answer": "translate"
+    "question": "I'm seeking assistance with language interpretation. Describe your educational background. Have you completed any degrees?",
+    "answer": {
+      "function": "translate",
+      "end_language": "interpretation",
+      "content": "Describe your educational background. Have you completed any degrees?"
+    }
   },
   {
-    "question": "Can you transform this text into Japanese?",
-    "answer": "translate"
+    "question": "Can you assist me with translating this text? What's your favorite color? Do you have a specific shade you prefer?",
+    "answer": {
+      "function": "translate",
+      "end_language": "text",
+      "content": "What's your favorite color? Do you have a specific shade you prefer?"
+    }
   },
   {
-    "question": "Translate this sentence to Italian.",
-    "answer": "translate"
+    "question": "Translate this sentence into Chinese. Describe your career aspirations. What goals do you have for your professional life?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Describe your career aspirations. What goals do you have for your professional life?"
+    }
   },
   {
-    "question": "I'm seeking assistance with language transformation.",
-    "answer": "translate"
+    "question": "Translate this content to Italian. What's your favorite cuisine? Do you have any specific dishes you love?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "What's your favorite cuisine? Do you have any specific dishes you love?"
+    }
   },
   {
-    "question": "Can you interpret this text for me?",
-    "answer": "translate"
+    "question": "Translate this passage into Portuguese. What's your favorite sport? Are you actively involved in any sports?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "What's your favorite sport? Are you actively involved in any sports?"
+    }
   },
   {
-    "question": "Translate this paragraph into Chinese.",
-    "answer": "translate"
+    "question": "Can you convert this text into French? Describe your ideal weekend. What activities bring you the most joy?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Describe your ideal weekend. What activities bring you the most joy?"
+    }
   },
   {
-    "question": "I need help translating a document.",
-    "answer": "translate"
+    "question": "Translate this document into Chinese. What's your favorite season? Do you have any specific reasons for liking it?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "What's your favorite season? Do you have any specific reasons for liking it?"
+    }
   },
   {
-    "question": "Could you convert this message into French?",
-    "answer": "translate"
+    "question": "Translate this sentence into Chinese. Describe your career aspirations. Are there specific achievements you aim for?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Describe your career aspirations. Are there specific achievements you aim for?"
+    }
   },
   {
-    "question": "Translate this content into Portuguese, please.",
-    "answer": "translate"
+    "question": "Translate this text to French.  Hobbies and interests?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Hobbies and interests?"
+    }
   },
   {
-    "question": "I'm looking for language conversion support.",
-    "answer": "translate"
+    "question": "Translate to German.  Dream vacation destination?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Dream vacation destination?"
+    }
   },
   {
-    "question": "Can you assist me with translating this sentence?",
-    "answer": "translate"
+    "question": "Translate to Spanish.  Favorite music genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Favorite music genre?"
+    }
   },
   {
-    "question": "Translate this text into Russian.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Daily routine description?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Daily routine description?"
+    }
   },
   {
-    "question": "I need help understanding this written content.",
-    "answer": "translate"
+    "question": "Translate to Russian.  Preferred movie genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Preferred movie genre?"
+    }
   },
   {
-    "question": "Can you transform this passage into Spanish?",
-    "answer": "translate"
+    "question": "Translate to French.  Ideal weekend activities?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Ideal weekend activities?"
+    }
   },
   {
-    "question": "Translate this document into Japanese, please.",
-    "answer": "translate"
+    "question": "Translate to Spanish.  Career aspirations?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Career aspirations?"
+    }
   },
   {
-    "question": "I require assistance with language interpretation.",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Favorite sport to watch?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite sport to watch?"
+    }
   },
   {
-    "question": "Can you convert this sentence into German?",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Favorite season and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Favorite season and why?"
+    }
   },
   {
-    "question": "Translate this message to French.",
-    "answer": "translate"
+    "question": "Translate to German.  Favorite cuisine and dish?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Favorite cuisine and dish?"
+    }
   },
   {
-    "question": "I'm in need of language conversion support.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Favorite animal and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite animal and why?"
+    }
   },
   {
-    "question": "Can you interpret this content for me?",
-    "answer": "translate"
+    "question": "Translate to Russian.  Family description?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Family description?"
+    }
   },
   {
-    "question": "Translate this text into Italian.",
-    "answer": "translate"
+    "question": "Translate to Spanish.  Educational background?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Educational background?"
+    }
   },
   {
-    "question": "I need help translating this paragraph.",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Hobbies and passions?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Hobbies and passions?"
+    }
   },
   {
-    "question": "Could you convert this text into Chinese?",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Daily routine and habits?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Daily routine and habits?"
+    }
   },
   {
-    "question": "Translate this sentence into Portuguese.",
-    "answer": "translate"
+    "question": "Translate to French.  Ideal weekend plans?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Ideal weekend plans?"
+    }
   },
   {
-    "question": "I'm seeking assistance in language transformation.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Favorite music and artists?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite music and artists?"
+    }
   },
   {
-    "question": "Can you assist me with translating this message?",
-    "answer": "translate"
+    "question": "Translate to Russian.  Dream vacation spot?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Dream vacation spot?"
+    }
   },
   {
-    "question": "Translate this content into Russian, please.",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Favorite color and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite color and why?"
+    }
   },
   {
-    "question": "I'm looking for help in language conversion.",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Career and achievements?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Career and achievements?"
+    }
   },
   {
-    "question": "Can you transform this text into German?",
-    "answer": "translate"
+    "question": "Translate to German.  Favorite book and author?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Favorite book and author?"
+    }
   },
   {
-    "question": "Translate this passage into French.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Favorite movie and genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite movie and genre?"
+    }
   },
   {
-    "question": "I need assistance with language interpretation.",
-    "answer": "translate"
+    "question": "Translate to Spanish.  Preferred season and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Preferred season and why?"
+    }
   },
   {
-    "question": "Can you convert this document into Spanish?",
-    "answer": "translate"
+    "question": "Translate to Russian.  Ideal weekend activities?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Ideal weekend activities?"
+    }
   },
   {
-    "question": "Translate this paragraph to Japanese.",
-    "answer": "translate"
+    "question": "Translate to French.  Favorite hobby and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Favorite hobby and why?"
+    }
   },
   {
-    "question": "I'm in need of language conversion.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Favorite sport to play?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite sport to play?"
+    }
   },
   {
-    "question": "Can you assist me with translating this text?",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Favorite music genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite music genre?"
+    }
   },
   {
-    "question": "Translate this sentence into Chinese.",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Dream vacation destination?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Dream vacation destination?"
+    }
   },
   {
-    "question": "I require help in language transformation.",
-    "answer": "translate"
+    "question": "Translate to German.  Daily routine and habits?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Daily routine and habits?"
+    }
   },
   {
-    "question": "Can you interpret this message for me?",
-    "answer": "translate"
+    "question": "Translate to Russian.  Family description?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Family description?"
+    }
   },
   {
-    "question": "Translate this content to Italian.",
-    "answer": "translate"
+    "question": "Translate to Spanish.  Educational background?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Educational background?"
+    }
   },
   {
-    "question": "I'm looking for language conversion assistance.",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Hobbies and passions?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Hobbies and passions?"
+    }
   },
   {
-    "question": "Can you transform this text into Russian?",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Favorite animal and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Favorite animal and why?"
+    }
   },
   {
-    "question": "Translate this passage into Portuguese.",
-    "answer": "translate"
+    "question": "Translate to French.  Ideal weekend plans?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Ideal weekend plans?"
+    }
   },
   {
-    "question": "I need help understanding this sentence.",
-    "answer": "translate"
+    "question": "Translate to Italian.  Favorite music and artists?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite music and artists?"
+    }
   },
   {
-    "question": "Can you convert this text into French?",
-    "answer": "translate"
+    "question": "Translate to Russian.  Dream vacation spot?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Dream vacation spot?"
+    }
   },
   {
-    "question": "Translate this document into Chinese.",
-    "answer": "translate"
+    "question": "Translate to Portuguese.  Favorite color and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite color and why?"
+    }
   },
   {
-    "question": "I'm seeking assistance with language interpretation.",
-    "answer": "translate"
+    "question": "Translate to Chinese.  Career and achievements?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Career and achievements?"
+    }
   },
   {
-    "question": "Can you assist me in translating this paragraph?",
-    "answer": "translate"
+    "question": "Translate to German.  Favorite book and author?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Favorite book and author?"
+    }
+  },
+  {
+    "question": "Translate to Italian.  Favorite movie and genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite movie and genre?"
+    }
+  },
+  {
+    "question": "Translate to Spanish.  Preferred season and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Preferred season and why?"
+    }
+  },
+  {
+    "question": "Translate to Russian.  Ideal weekend activities?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Ideal weekend activities?"
+    }
+  },
+  {
+    "question": "Translate to French.  Favorite hobby and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Favorite hobby and why?"
+    }
+  },
+  {
+    "question": "Translate to Italian.  Favorite sport to play?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite sport to play?"
+    }
+  },
+  {
+    "question": "Translate to Portuguese.  Favorite music genre?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite music genre?"
+    }
+  },
+  {
+    "question": "Translate to Chinese.  Dream vacation destination?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Dream vacation destination?"
+    }
+  },
+  {
+    "question": "Translate to German.  Daily routine and habits?",
+    "answer": {
+      "function": "translate",
+      "end_language": "German",
+      "content": "Daily routine and habits?"
+    }
+  },
+  {
+    "question": "Translate to Russian.  Family description?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Family description?"
+    }
+  },
+  {
+    "question": "Translate to Spanish.  Educational background?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Spanish",
+      "content": "Educational background?"
+    }
+  },
+  {
+    "question": "Translate to Portuguese.  Hobbies and passions?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Hobbies and passions?"
+    }
+  },
+  {
+    "question": "Translate to Chinese.  Favorite animal and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Favorite animal and why?"
+    }
+  },
+  {
+    "question": "Translate to French.  Ideal weekend plans?",
+    "answer": {
+      "function": "translate",
+      "end_language": "French",
+      "content": "Ideal weekend plans?"
+    }
+  },
+  {
+    "question": "Translate to Italian.  Favorite music and artists?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Italian",
+      "content": "Favorite music and artists?"
+    }
+  },
+  {
+    "question": "Translate to Russian.  Dream vacation spot?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Russian",
+      "content": "Dream vacation spot?"
+    }
+  },
+  {
+    "question": "Translate to Portuguese.  Favorite color and why?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Portuguese",
+      "content": "Favorite color and why?"
+    }
+  },
+  {
+    "question": "Translate to Chinese.  Career and achievements?",
+    "answer": {
+      "function": "translate",
+      "end_language": "Chinese",
+      "content": "Career and achievements?"
+    }
   },
   {
     "question": "Can you help me find the path?",
