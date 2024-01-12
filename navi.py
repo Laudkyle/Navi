@@ -47,7 +47,7 @@ class Navi:
     def get_battery(self):
         return self.battery
 class Idle(State):
-    def chatbot():
+    def chatbot(self):
         print("This is the idle function coordinator that will be first loaded when the model is loaded")
     def person_identification(self, navi):
         if navi.current_state == "Idle":
