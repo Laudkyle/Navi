@@ -1,41 +1,43 @@
 import torch
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 from sklearn.preprocessing import LabelEncoder
+import json
 
-# Load the trained model
-loaded_model = DistilBertForSequenceClassification.from_pretrained("distil_intent_model")
-
-# Load the tokenizer
+# Load the pre-trained model
+model = DistilBertForSequenceClassification.from_pretrained("distil_intent_model")
 tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 
-# Define the label encoder for decoding predictions
+# Load dataset from JSON file
+with open('../Navi/intent_dataset.json', 'r') as file:
+    dataset = json.load(file)
+
+# Extract labels from the dataset
+labels = [sample["answer"] for sample in dataset]
+
+# Use LabelEncoder to convert string labels into integer indices
 label_encoder = LabelEncoder()
-label_encoder.classes_ = ["general_functionalities", "location"]  # Update with your classes
+encoded_labels = label_encoder.fit_transform(labels)
 
-# Define the class-to-index mapping
-class_to_index = {label: i for i, label in enumerate(label_encoder.classes_)}
-
-# Create a loop for interactive testing
+# Manually input questions for predictions
 while True:
-    # Get user input
-    user_input = input("Enter a question (type 'exit' to end): ")
+    # Manually type a question
+    input_question = input("Type your question (or 'exit' to end): ")
 
-    # Check for exit condition
-    if user_input.lower() == 'exit':
+    # Check if the user wants to exit
+    if input_question.lower() == 'exit':
         break
 
-    # Tokenize and encode the input
-    inputs = tokenizer(user_input, return_tensors="pt", truncation=True, padding="max_length", max_length=20)
-    input_ids = inputs["input_ids"]
-    attention_mask = inputs["attention_mask"]
+    # Tokenize and encode the input question
+    input_ids = tokenizer(input_question, return_tensors="pt", truncation=True, padding=True)["input_ids"]
 
-    # Make a prediction
+    # Make predictions
     with torch.no_grad():
-        outputs = loaded_model(input_ids, attention_mask=attention_mask)
-        logits = outputs.logits
+        model.eval()
+        logits = model(input_ids).logits
 
-    # Get the predicted label
-    predicted_label_idx = torch.argmax(logits).item()
-    predicted_label = list(class_to_index.keys())[list(class_to_index.values()).index(predicted_label_idx)]
+    # Convert logits to predicted labels
+    predicted_label = torch.argmax(logits, dim=1).item()
+    predicted_label = label_encoder.inverse_transform([predicted_label])[0]
 
-    print(f"Predicted label: {predicted_label}")
+    # Print the predicted label
+    print(f"Predicted Label for '{input_question}': {predicted_label}")

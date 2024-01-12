@@ -1,0 +1,367 @@
+
+[
+  {
+    "command": "Initiate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change the state to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading functionality.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Trigger the navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change the state to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Change the functionality to navigation.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch to the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch the state to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Change to navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Trigger the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Initiate the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle mode.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch the state to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Change to navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Initiate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to the navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Initiate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Change to reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch the state to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading functionality.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Initiate navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch to the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Trigger the navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate the reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change to the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate the navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch the state to reading.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle mode.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Change to navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Initiate the reading functionality.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Switch to the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change the state to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to the reading functionality.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Activate the idle mode.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change to reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Trigger the navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch to the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change to navigation.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Initiate navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Change the state to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading functionality.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Trigger the navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch to the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change to the idle state.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Trigger the navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Initiate the navigation mode.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to navigation.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the idle mode.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Initiate the reading state.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change to navigation functionality.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Switch the state to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Activate the reading mode.",
+    "code": "navi.change_state('reading')"
+  },
+  {
+    "command": "Change the functionality to idle.",
+    "code": "navi.change_state('idle')"
+  },
+  {
+    "command": "Switch to navigation state.",
+    "code": "navi.change_state('navigation')"
+  },
+  {
+    "command": "Activate the idle functionality.",
+    "code": "navi.change_state('idle')"
+  }
+]
