@@ -5,14 +5,14 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 
 # Load the saved model
-model = load_model("direction_model.h5")
+model = load_model("../Navi Env/direction/direction_model.h5")
 
 # Load the tokenizer
-with open('tokenizer.pickle', 'rb') as handle:
+with open('../Navi Env/direction/tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
 # Load the direction labels
-with open('direction_labels.pickle', 'rb') as handle:
+with open('../Navi Env/direction/direction_labels.pickle', 'rb') as handle:
     direction_labels = pickle.load(handle)
 
 # Function to preprocess input text and make predictions
