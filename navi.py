@@ -61,9 +61,9 @@ class Idle(State):
         else:
             print("Error: Cannot perform this function in the current state")
 
-    def object_identification(self, navi):
+    def color_identification(self, navi):
         if navi.current_state == "Idle":
-            print("This function identifies any object in question. Colors too")
+            print("This function identifies any color in question.")
         else:
             print("Error: Cannot perform this function in the current state")
 
