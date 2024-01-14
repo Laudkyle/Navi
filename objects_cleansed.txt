@@ -5,12 +5,11 @@ keyboard cover
 bench
 broom
 body spray
-blankets
 cake pans
 plates
 backpack
 alarm clock
-headphones
+headphone
 coffee
 eraser
 hairdryer
@@ -20,7 +19,6 @@ street sweeper
 stapler
 taxi
 cutting boards
-throw rug
 bus
 bed sheet
 glass
@@ -93,7 +91,6 @@ laundry basket
 bucket
 charger cables
 mop
-laundry drying rack
 umbrella
 blanket
 rug
@@ -111,7 +108,6 @@ overhead power lines
 hair wax
 spices
 wall shelf
-soup bowl
 mirror
 soap
 hair spray
@@ -128,16 +124,14 @@ tea
 can opener
 fire escape
 napkin holder
-graters
 cup
-plant
 hair straightener
 pillowcase
 air freshener
 plastic container
 dustpan
 water bottle
-books
+book
 jewelry box
 calculator
 laptop
@@ -224,5 +218,8 @@ sunglasses
 plate
 colander
 handkerchief 
-facetowel
+face towel
 phone charger
+gas cylinder
+gas stove
+matches
