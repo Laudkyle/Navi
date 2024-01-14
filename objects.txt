@@ -1,302 +1,228 @@
-Pen
-Pencil
-Highlighter
-Textbooks
-Calculator
-Water bottle
-Coffee mug
-Smartphone
-Headphones
-USB drive
-Desk lamp
-Sticky notes
-Planner
-Folder
-Stapler
-Ruler
-Eraser
-Scissors
-Tape
-Whiteboard markers
-Laptop charger
-Power bank
-Bookshelf
-Desk organizer
-Calendar
-Printer
-Printer paper
-Coffee maker
-Microwave
-Refrigerator
-Bed sheets
-Pillow
-Blanket
-Alarm clock
-Desk chair
-Laundry basket
-Towels
-Toiletries
-Shower caddy
-Hangers
-Iron
-Ironing board
-Trash can
-Recycling bin
-Cleaning supplies
-Backpack rain cover
-Umbrella
-Notecards
-Posters
-Push pins
-Desk fan
-Extension cords
-Surge protector
-USB hub
-External hard drive
-Mouse pad
-Desk calendar
-Wall clock
-Plant
-Desk organizer
-USB flash drive
-Headset
-Ethernet cable
-Desk mat
-Portable speaker
-Fitness equipment
-Yoga mat
-Water filter pitcher
-Food storage containers
-Cooking utensils
-Coffee grinder
-Water filter
-Sunglasses
-Backpack rain cover
-Hand sanitizer
-Face masks
-First aid kit
-Snack foods
-Reusable water bottle
-Lunch box
-Cooking appliances
-Desk plant
-Wall art
-Desk accessories
-Air purifier
-Sticky tack
-Cable organizers
-Portable phone charger
-Storage bins
-Shoe rack
-Desk supplies
-Air freshener
-Keyboard cover
-Laptop stand
-Bulletin board
-Bulletin board
-Bedside lamp
-Bedside table
-Pillowcase
-Bedsheets
-Laundry detergent
-Shower curtain
-Toothbrush
-Toothpaste
-Shampoo
-Conditioner
-Soap
-Towel
-Flip-flops
-Hairdryer
-Mirror
-Hangers
-Closet organizer
-Desk lamp
-Study chair
-Desk calendar
-Whiteboard
-Corkboard
-Push pins
-Desk organizer
-Trash can
-Recycling bin
-Laundry basket
-Iron
-Ironing board
-Drying rack
-Extension cord
-Power strip
-Surge protector
-Desk fan
-Storage bins
-Shelf liner
-Mini-fridge
-Microwave
-Electric kettle
-Coffee maker
-Toaster
-Plates
-Bowls
-Mugs
-Utensils
-Cutting board
-Can opener
-Pots and pans
-Cooking utensils
-Dish soap
-Sponges
-Food storage containers
-Trash bags
-Dustpan
-Cleaning supplies
-Air freshener
-Insect repellent
-Raincoat
-Shoe rack
-Shoe organizer
-Laundry hamper
-Quilt
-Blanket
-Pillowcases
-Mattress protector
-Alarm clock
-Wall clock
-Curtains
-Rug
-Bed risers
-Extension cords
-Bulletin board
-Wall art
-Poster putty
-Desk supplies
-Stationery
-Notebooks
-Pens
-Pencils
-Stapler
-Tape dispenser
-Scissors
-Sticky notes
-Paper clips
-Printer
-Printer paper
-Wall shelf
-Door hooks
-Shoe tray
-Clothes drying rack
-Storage ottoman
-Trash bins for room
-Coat hangers
-Fan
-Air purifier
-Sleep mask
-Earplugs
-Toothbrush
-Toothpaste
-Hairbrush
-Comb
-Shampoo
-Conditioner
-Soap
-Towel
-Razor
-Toilet paper
-Tissue box
-Hand sanitizer
-Cotton swabs
-Facial cleanser
-Moisturizer
-Deodorant
-Hairdryer
-Mirror
-Bathrobe
-Slippers
-Laundry detergent
-Washing machine
-Dish soap
-Dishwasher
-Sponge
-Broom
-Dustpan
-Mop
-Bucket
-Vacuum cleaner
-Trash can
-Recycling bin
-Kitchen towels
-Oven mitts
-Pots and pans
-Cutting board
-Utensils
-Plates
-Bowls
-Glasses
-Mugs
-Coffee maker
-Toaster
-Microwave
-Refrigerator
-Freezer
-Kitchen timer
-Food storage containers
-Can opener
-Trash bags
-=> Duplicates:
-Desk lamp
-Sticky notes
-Stapler
-Scissors
-Desk organizer
-Printer
-Printer paper
-Coffee maker
-Microwave
-Refrigerator
-Blanket
-Alarm clock
-Laundry basket
-Hangers
-Iron
-Ironing board
-Trash can
-Recycling bin
-Cleaning supplies
-Backpack rain cover
-Push pins
-Desk fan
-Extension cords
-Surge protector
-Desk calendar
-Wall clock
-Food storage containers
-Cooking utensils
-Hand sanitizer
-Wall art
-Air purifier
-Storage bins
-Shoe rack
-Desk supplies
-Air freshener
-Bulletin board
-Laundry detergent
-Toothbrush
-Toothpaste
-Shampoo
-Conditioner
-Soap
-Towel
-Hairdryer
-Mirror
-Toaster
-Plates
-Bowls
+colanders
+kitchen timer
+plastic container
+fork
+bathrobe
+shampoo
+mug
+medicine
+pillow
+comb
+coffee
+drinking glasses
+lipstick
+bulletin board
+usb hub
+rice cooker
+drying rack
+wrist watch
+ladle
+air freshener
+glue
+soup bowl
+mop
+rug
+external hard drive
+car
+toaster
+necklaces
+colander
+stapler
+outdoor advertising billboards
+popcorn
+ambulance
+detergent
+nail polish
+hairbands
+strainer
+makeup brushes
 bowl
-Mugs
-Utensils
-Cutting board
-Can opener
-Pots and pans
-Dish soap
-Trash bags
-Broom
-Dustpan
+backpack
+books
+usb drive
+saucer
+kettle
+fan
+router
+laptop charger
+hair wax
+recycling bin
+glass
+hairdryer
+shoe tray
+tissue box
+pan
+hand sanitizer
+jewelry box
+eraser
+washing machine
+refrigerator
+public park
+power bank
+wall shelf
+curtains
+air purifier
+calculator
+spices
+deodorant
+ring
+bed sheet
+trash bags
+notecards
+outdoor sculptures
+hot plate
+scissors
+whiteboard markers
+overhead power lines
+blender
+printer
+flip-flops
+traffic lights
+headband
+storage container
+desk organizer
+umbrella
+laundry drying rack
+scarf
+insect repellent
+desk lamp
+phone charger
+atm machine
+dinner plate
+bus stop
+hat
+plant
+outdoor seating area
+broom
+street sweeper
+dustpan
+hairbrush
+toothbrush
+calendar
+mouse pad
+tea
+bus shelter
+mini-fridge
+notebook
+pillowcase
+graters
+cologne
+glasses
+bracelets
+facial cleanser
+electric plant
+corkscrew
+plate
+charger cables
+blankets
+toiletries
+dish rack
+crosswalk
+teacup
+laptop stand
+scooter
+pothole
+slippers
+hair spray
+body spray
+coffee mug
+raincoat
+salt
+cup
+portable speaker
+knife
+highlighter
+hangers
+mirror
+poster putty
+posters
+towel
+pencil
+sponge
+plastic chair
+cookie sheet
+sidewalk
+zebra crossing
+textbook
+laundry basket
+laptop
+highlighters
+bench
+quilt
+pot
+whiteboard
+first aid kit
+plastic containers
+toothpaste
+ethernet cable
+baking dish
+hair gel
+microwave
+freezer
+pillows
+sunglasses
+ruler
+keyboard cover
+taxi
+wall clock
+bus
+street lamp
+cutting boards
+cutting board
+tissues
+bicycle rack
+smartphone
+cake pans
+earrings
+throw rug
+wall hooks
+trees
+razor
+soap
+bucket
+wooden chair
+police car
+can opener
+bicycle
+shower curtain
+pen
+marker
+planter boxes
+hair ties
+fire escape
+desk calendar
+desk fan
+bottle opener
+perfume
+bookshelf
+blanket
+electric kettle
+saucers
+alarm clock
+manhole cover
+plates
+motorcycle
+headset
+lunch box
+hair straightener
+pedestrian
+ironing board
+hair clips
+hairpins
+earplugs
+coffee maker
+sticky notes
+face mask
+mugs
+iron
+dinner plates
+spoon
+drinking glass
+street signs
+headphones
+paper clips
+grater
+water bottle
+desk plant
+napkin holder
+shoe rack
