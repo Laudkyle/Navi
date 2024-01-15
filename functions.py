@@ -4,7 +4,7 @@ import time
 
 
 def detect_color():
-    cap = cv2.VideoCapture(0)  # 0 corresponds to the default camera
+    cap = cv2.imread('../Navi Env/pic1.jpg')  # 0 corresponds to the default camera
     common_colors = {
         "Red": ([0, 100, 100], [10, 255, 255]),
         "Reddish_Brown": ([0, 50, 50], [20, 255, 255]),
@@ -161,7 +161,7 @@ def detect_color():
         start_time = time.time()
 
         while time.time() - start_time < 3:
-            ret, frame = cap.read()
+            frame = cap
 
             # Break the loop if 'q' is pressed
             if cv2.waitKey(1) & 0xFF == ord("q"):
