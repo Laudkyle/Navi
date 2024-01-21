@@ -12,5 +12,10 @@ while counter >=1:
 
 cv.imwrite("temp1.jpg",frame)
 
-analysis = DeepFace.analyze(img_path = "temp.jpg", actions = ["age", "gender", "emotion", "race"]) 
+cap.release()
+
+analysis = DeepFace.analyze(img_path = "temp.jpg", actions = ["age", "gender", "emotion"]) 
 print(analysis)
+
+verification = DeepFace.verify(img1_path = "temp.jpg", img2_path = "temp1.jpg")
+print(verification)
