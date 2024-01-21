@@ -59,14 +59,14 @@ class Navi:
 
     def _run_reminder(self):
         print("Setting a reminder.")
-        reminder_time = datetime.now() + timedelta(seconds=5)  # Set a reminder after 5 seconds
+        reminder_time = datetime.now() + timedelta(seconds=15)  # Set a reminder after 5 seconds
         while datetime.now() < reminder_time:
             time.sleep(1)
         print("Reminder: Time to do something!")
 
     def _run_alarm(self):
         print("Setting an alarm.")
-        alarm_time = datetime.now() + timedelta(seconds=10)  # Set an alarm after 10 seconds
+        alarm_time = datetime.now() + timedelta(seconds=30)  # Set an alarm after 10 seconds
         while datetime.now() < alarm_time:
             time.sleep(1)
         print("Alarm: Wake up!")
@@ -155,19 +155,23 @@ navi.change_state("Idle")
 # Performing specific functions based on the current state
 idle_state.object_detection(navi)
 idle_state.person_identification(navi)
-idle_state.object_identification(navi)
+idle_state.object_detection(navi)
 
 # Changing state and attempting to perform functions not in the current state
 navi.change_state("Navigation")
 idle_state.object_detection(navi) 
 idle_state.person_identification(navi)
 
-
 while True:
     user_input = input("Ask a question (type 'exit' to end): ")
     if user_input.lower() == 'exit':
         break
 
-    code_to_execute = f'navi.{user_input.lower()}()'
-    result = execute_code(code_to_execute, navi)
-    print(result)
+    if user_input.lower() == 'set reminder':
+        navi.set_reminder()
+    elif user_input.lower() == 'set alarm':
+        navi.set_alarm()
+    else:
+        code_to_execute = f'navi.{user_input.lower()}()'
+        result = execute_code(code_to_execute, navi)
+        print(result)
