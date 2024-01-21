@@ -50,6 +50,26 @@ class Navi:
     
     def get_battery(self):
         return self.battery
+    
+    def set_reminder(self):
+        threading.Thread(target=self._run_reminder).start()
+
+    def set_alarm(self):
+        threading.Thread(target=self._run_alarm).start()
+
+    def _run_reminder(self):
+        print("Setting a reminder.")
+        reminder_time = datetime.now() + timedelta(seconds=5)  # Set a reminder after 5 seconds
+        while datetime.now() < reminder_time:
+            time.sleep(1)
+        print("Reminder: Time to do something!")
+
+    def _run_alarm(self):
+        print("Setting an alarm.")
+        alarm_time = datetime.now() + timedelta(seconds=10)  # Set an alarm after 10 seconds
+        while datetime.now() < alarm_time:
+            time.sleep(1)
+        print("Alarm: Wake up!")
 class Idle(State):
     def chatbot(self):
         print("This is the idle function coordinator that will be first loaded when the model is loaded")
