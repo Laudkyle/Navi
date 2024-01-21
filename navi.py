@@ -1,6 +1,7 @@
 import threading
 import time
 from datetime import datetime, timedelta
+import dateutil.parser
 
 class State:
     def __init__(self, status):
@@ -51,25 +52,57 @@ class Navi:
     def get_battery(self):
         return self.battery
     
-    def set_reminder(self):
-        threading.Thread(target=self._run_reminder).start()
+    # Alrams and reminders
+    
+    def set_reminder(self, input_str):
+        threading.Thread(target=self._run_reminder, args=(input_str,)).start()
 
-    def set_alarm(self):
-        threading.Thread(target=self._run_alarm).start()
+    def set_alarm(self, input_str):
+        threading.Thread(target=self._run_alarm, args=(input_str,)).start()
 
-    def _run_reminder(self):
-        print("Setting a reminder.")
-        reminder_time = datetime.now() + timedelta(seconds=15)  # Set a reminder after 5 seconds
-        while datetime.now() < reminder_time:
-            time.sleep(1)
-        print("Reminder: Time to do something!")
+    def _run_reminder(self, input_str):
+        try:
+            reminder_time = dateutil.parser.parse(input_str)
+            
+            # Check if only time is provided without a date
+            if reminder_time.date() == datetime.now().date():
+                reminder_time = datetime.combine(datetime.now().date(), reminder_time.time())
+            elif reminder_time < datetime.now():
+                print("Error: Reminder time should be in the future.")
+                return
 
-    def _run_alarm(self):
-        print("Setting an alarm.")
-        alarm_time = datetime.now() + timedelta(seconds=30)  # Set an alarm after 10 seconds
-        while datetime.now() < alarm_time:
-            time.sleep(1)
-        print("Alarm: Wake up!")
+            seconds_until_reminder = (reminder_time - datetime.now()).total_seconds()
+
+            print(f"Setting a reminder for {seconds_until_reminder} seconds from now.")
+            
+            time.sleep(seconds_until_reminder)
+            print("Reminder: Time to do something!")
+
+        except ValueError:
+            print("Error: Unable to parse input for reminder.")
+
+    def _run_alarm(self, input_str):
+        try:
+            alarm_time = dateutil.parser.parse(input_str)
+
+            # Check if only time is provided without a date
+            if alarm_time.date() == datetime.now().date():
+                alarm_time = datetime.combine(datetime.now().date(), alarm_time.time())
+            elif alarm_time < datetime.now():
+                print("Error: Alarm time should be in the future.")
+                return
+
+            seconds_until_alarm = (alarm_time - datetime.now()).total_seconds()
+
+            print(f"Setting an alarm for {seconds_until_alarm} seconds from now.")
+            
+            time.sleep(seconds_until_alarm)
+            print("Alarm: Wake up!")
+
+        except ValueError:
+            print("Error: Unable to parse input for alarm.")
+
+
 class Idle(State):
     def chatbot(self):
         print("This is the idle function coordinator that will be first loaded when the model is loaded")
@@ -162,15 +195,18 @@ navi.change_state("Navigation")
 idle_state.object_detection(navi) 
 idle_state.person_identification(navi)
 
+
 while True:
     user_input = input("Ask a question (type 'exit' to end): ")
     if user_input.lower() == 'exit':
         break
 
-    if user_input.lower() == 'set reminder':
-        navi.set_reminder()
-    elif user_input.lower() == 'set alarm':
-        navi.set_alarm()
+    if user_input.lower().startswith('set reminder'):
+        _, input_str = user_input.split(maxsplit=3)[2:]
+        navi.set_reminder(input_str)
+    elif user_input.lower().startswith('set alarm'):
+        _, input_str = user_input.split(maxsplit=3)[2:]
+        navi.set_alarm(input_str)
     else:
         code_to_execute = f'navi.{user_input.lower()}()'
         result = execute_code(code_to_execute, navi)
