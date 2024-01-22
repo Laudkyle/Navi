@@ -2,6 +2,12 @@ import threading
 import time
 from datetime import datetime, timedelta
 import dateutil.parser
+import logging
+
+
+# Configure logging
+logging.basicConfig(filename='navi_log.txt', level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
 class State:
     def __init__(self, status):
@@ -64,7 +70,6 @@ class Navi:
         try:
             reminder_time = dateutil.parser.parse(input_str)
             
-            # Check if only time is provided without a date
             if reminder_time.date() == datetime.now().date():
                 reminder_time = datetime.combine(datetime.now().date(), reminder_time.time())
             elif reminder_time < datetime.now():
@@ -73,19 +78,19 @@ class Navi:
 
             seconds_until_reminder = (reminder_time - datetime.now()).total_seconds()
 
-            print(f"Setting a reminder for {seconds_until_reminder} seconds from now.")
-            
+            logging.info(f'Set reminder for {input_str} - Running')
             time.sleep(seconds_until_reminder)
+            logging.info(f'Set reminder for {input_str} - Completed')
             print("Reminder: Time to do something!")
 
         except ValueError:
             print("Error: Unable to parse input for reminder.")
+            logging.error(f'Error: Unable to parse input for reminder - {input_str}')
 
     def _run_alarm(self, input_str):
         try:
             alarm_time = dateutil.parser.parse(input_str)
 
-            # Check if only time is provided without a date
             if alarm_time.date() == datetime.now().date():
                 alarm_time = datetime.combine(datetime.now().date(), alarm_time.time())
             elif alarm_time < datetime.now():
@@ -94,13 +99,15 @@ class Navi:
 
             seconds_until_alarm = (alarm_time - datetime.now()).total_seconds()
 
-            print(f"Setting an alarm for {seconds_until_alarm} seconds from now.")
-            
+            logging.info(f'Set alarm for {input_str} - Running')
             time.sleep(seconds_until_alarm)
+            logging.info(f'Set alarm for {input_str} - Completed')
             print("Alarm: Wake up!")
 
         except ValueError:
             print("Error: Unable to parse input for alarm.")
+            logging.error(f'Error: Unable to parse input for alarm - {input_str}')
+
 
 
 class Idle(State):
@@ -109,9 +116,10 @@ class Idle(State):
     def person_identification(self, navi):
         if navi.current_state == "Idle":
             print('This function identifies who stands in front of me and plural if necessary')
+            logging.info(f"Command: Person Identification")
         else:
             print("Error: Cannot perform this function in the current state")
-
+            logging.info(f"Command: Person Identification failed")
     def object_detection(self, navi):
         if navi.current_state == "Idle":
             print("This function detects if objects are present in a particular place")
