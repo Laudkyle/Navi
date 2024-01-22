@@ -3,6 +3,8 @@ import time
 from datetime import datetime, timedelta
 import dateutil.parser
 import logging
+from geopy.distance import geodesic
+import math
 
 
 # Configure logging
