@@ -1,5 +1,7 @@
-2024-01-21 16:57:42 - Command: Person Identification
-2024-01-21 16:57:42 - Command: Person Identification failed
-2024-01-21 16:57:59 - Command: set alarm
-2024-01-21 16:58:18 - Command: set alarm
-2024-01-21 17:00:28 - Command: set reminder for 5:1pm
+object detection
+person Identification
+approaching people
+gutter infront
+vehicle approaching 1
+low battery
+direction
