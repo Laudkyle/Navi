@@ -19,14 +19,4 @@ def is_within_area(current_location, area_center, radius_km):
 
     return distance <= radius_km
 
-# Example usage:
-current_location = (37.7749, -122.4194)  # Replace with your current location
-area_center = (37.7749, -122.4194)  # Replace with the center of the area
-radius_km = 5  # Replace with the radius of the area in kilometers
 
-result = is_within_area(current_location, area_center, radius_km)
-
-if result:
-    print("You are within the specified area.")
-else:
-    print("You are outside the specified area.")
