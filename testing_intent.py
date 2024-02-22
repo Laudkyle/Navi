@@ -8,7 +8,7 @@ model = DistilBertForSequenceClassification.from_pretrained("distil_intent_model
 tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 
 # Load dataset from JSON file
-with open('../Navi/intent_dataset.json', 'r') as file:
+with open('../Navi/datasets/intent_dataset.json', 'r') as file:
     dataset = json.load(file)
 
 # Extract labels from the dataset

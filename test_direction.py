@@ -31,7 +31,7 @@ def predict_direction(input_text, tokenizer, max_sequence_length):
 
     return predicted_label
 
-# Example usage
+
 input_question = "What's in my hand?"
 max_sequence_length = 9 
 predicted_direction = predict_direction(input_question, tokenizer, max_sequence_length)
