@@ -50,7 +50,7 @@ while True:
     # Fill the image with the color gradient
     img = cv.cvtColor(color_gradient.astype(np.uint8), cv.COLOR_HSV2BGR)
 
-    cv.imshow("Tracker", img)
+    cv.imshow("Color Tracker", img)
     
     if cv.waitKey(1) & 0xFF == ord("q"):
         break
