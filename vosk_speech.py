@@ -13,7 +13,7 @@ def callback(indata, frames, time, status):
     q.put(bytes(indata))
 
 # Load the Vosk model (you may need to download it from the Vosk website)
-model = Model("path/to/vosk-model-small-en-us-0.15")
+model = Model("vosk")
 
 # Initialize the recognizer
 recognizer = KaldiRecognizer(model, 16000)
