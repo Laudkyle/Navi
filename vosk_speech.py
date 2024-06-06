@@ -11,8 +11,7 @@ def callback(indata, frames, time, status):
     if status:
         print(status, flush=True)
     q.put(bytes(indata))
-
-# Load the Vosk model (you may need to download it from the Vosk website)
+# The model
 model = Model("vosk")
 
 # Initialize the recognizer
