@@ -14,20 +14,24 @@ def callback(recognizer, audio):
 recognizer = sr.Recognizer()
 
 # Capture microphone input
-with sr.Microphone() as source:
-    print("Adjusting for ambient noise, please wait...")
+mic = sr.Microphone()
+
+# Adjust for ambient noise
+print("Adjusting for ambient noise, please wait...")
+with mic as source:
     recognizer.adjust_for_ambient_noise(source)
-    print("Listening...")
 
-    # Start listening in the background (non-blocking)
-    stop_listening = recognizer.listen_in_background(source, callback)
+print("Listening...")
 
-    print("Listening in the background... Press Ctrl+C to stop.")
+# Start listening in the background (non-blocking)
+stop_listening = recognizer.listen_in_background(mic, callback)
 
-    # Keep the program running indefinitely
-    try:
-        while True:
-            pass
-    except KeyboardInterrupt:
-        stop_listening(wait_for_stop=False)
-        print("Exiting the program.")
+print("Listening in the background... Press Ctrl+C to stop.")
+
+# Keep the program running indefinitely
+try:
+    while True:
+        pass
+except KeyboardInterrupt:
+    stop_listening(wait_for_stop=False)
+    print("Exiting the program.")
