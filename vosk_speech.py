@@ -28,8 +28,4 @@ with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',
             result = recognizer.Result()
             result_dict = json.loads(result)
             print("You said: ", result_dict.get("text", ""))
-        else:
-            partial_result = recognizer.PartialResult()
-            partial_result_dict = json.loads(partial_result)
-            print("Partial result: ", partial_result_dict.get("partial", ""))
-
+     
