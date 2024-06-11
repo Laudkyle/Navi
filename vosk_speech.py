@@ -20,7 +20,7 @@ recognizer = KaldiRecognizer(model, 16000)
 # Configure the audio stream
 with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',
                        channels=1, callback=callback):
-    print("Listening... Press Ctrl+C to stop.")
+    print("Listening...")
 
     while True:
         data = q.get()

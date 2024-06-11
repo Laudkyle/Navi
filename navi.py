@@ -1,10 +1,28 @@
 import threading
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 import dateutil.parser
 import logging
-from geopy.distance import geodesic
 import math
+import sounddevice as sd
+import queue
+import json
+from vosk import Model, KaldiRecognizer
+from functions import *
+
+# Initialize a queue to hold audio data
+q = queue.Queue()
+
+# Define the callback function to receive audio data from the microphone
+def callback(indata, frames, time, status):
+    if status:
+        print(status, flush=True)
+    q.put(bytes(indata))
+# The model
+model = Model("vosk")
+
+# Initialize the recognizer
+recognizer = KaldiRecognizer(model, 16000)
 
 
 # Configure logging
@@ -200,24 +218,40 @@ idle_state.object_detection(navi)
 idle_state.person_identification(navi)
 idle_state.object_detection(navi)
 
-# Changing state and attempting to perform functions not in the current state
-navi.change_state("Navigation")
-idle_state.object_detection(navi) 
-idle_state.person_identification(navi)
+# # Changing state and attempting to perform functions not in the current state
+# navi.change_state("Navigation")
+# idle_state.object_detection(navi) 
+# idle_state.person_identification(navi)
 
 
-while True:
-    user_input = input("Ask a question (type 'exit' to end): ")
-    if user_input.lower() == 'exit':
-        break
+# while True:
+#     user_input = input("Ask a question (type 'exit' to end): ")
+#     if user_input.lower() == 'exit':
+#         break
 
-    if user_input.lower().startswith('set reminder'):
-        _, input_str = user_input.split(maxsplit=3)[2:]
-        navi.set_reminder(input_str)
-    elif user_input.lower().startswith('set alarm'):
-        _, input_str = user_input.split(maxsplit=3)[2:]
-        navi.set_alarm(input_str)
-    else:
-        code_to_execute = f'navi.{user_input.lower()}()'
-        result = execute_code(code_to_execute, navi)
-        print(result)
+#     if user_input.lower().startswith('set reminder'):
+#         _, input_str = user_input.split(maxsplit=3)[2:]
+#         navi.set_reminder(input_str)
+#     elif user_input.lower().startswith('set alarm'):
+#         _, input_str = user_input.split(maxsplit=3)[2:]
+#         navi.set_alarm(input_str)
+#     else:
+#         code_to_execute = f'navi.{user_input.lower()}()'
+#         result = execute_code(code_to_execute, navi)
+#         print(result)
+        
+# Configuring the audio stream
+with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',
+                       channels=1, callback=callback):
+    print("Listening...")
+
+    while True:
+        data = q.get()
+        if recognizer.AcceptWaveform(data):
+            result = recognizer.Result()
+            result_dict = json.loads(result)
+            user_input = result_dict.get("text", "")
+            if user_input.lower() == 'exit':
+                break
+            print(user_input)
+     

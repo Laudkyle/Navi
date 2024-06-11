@@ -1,0 +1,2 @@
+2024-06-11 07:19:15,048 - INFO - Command: Person Identification
+2024-06-11 07:19:15,048 - INFO - Command: Person Identification failed

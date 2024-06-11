@@ -212,12 +212,7 @@ for color, (lower, upper) in common_colors.items():
     cv2.imshow(color, bgr_color_image)
 
 
-# Wait for a key press and close the OpenCV windows
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-#"""
-#All information on the color was obtain by 
-# experimentations hence is subject to change
-# as well as errors"""#
