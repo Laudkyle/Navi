@@ -9,6 +9,8 @@ import queue
 import json
 from vosk import Model, KaldiRecognizer
 from functions import *
+from tessaract import *
+from person_recognition import *
 
 # Initialize a queue to hold audio data
 q = queue.Queue()
@@ -214,9 +216,9 @@ navi.add_state(state_name="Navigation", state_instance=navigation_state)
 navi.change_state("Idle")
 
 # Performing specific functions based on the current state
-idle_state.object_detection(navi)
-idle_state.person_identification(navi)
-idle_state.object_detection(navi)
+# idle_state.object_detection(navi)
+# idle_state.person_identification(navi)
+# idle_state.object_detection(navi)
 
 # # Changing state and attempting to perform functions not in the current state
 # navi.change_state("Navigation")
@@ -239,19 +241,26 @@ idle_state.object_detection(navi)
 #         code_to_execute = f'navi.{user_input.lower()}()'
 #         result = execute_code(code_to_execute, navi)
 #         print(result)
-        
-# Configuring the audio stream
-with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',
-                       channels=1, callback=callback):
-    print("Listening...")
 
+# Configuring the audio stream
+with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',channels=1, callback=callback):
+    play_sound('open') 
     while True:
         data = q.get()
         if recognizer.AcceptWaveform(data):
             result = recognizer.Result()
             result_dict = json.loads(result)
-            user_input = result_dict.get("text", "")
+            user_input = "who is this"
             if user_input.lower() == 'exit':
                 break
-            print(user_input)
+            elif user_input.lower() == "read":
+                print(extract_text_from_image(text_capture_image))
+                
+            elif user_input.lower() == "who is this":
+                print(recognize_face_from_image(face_capture_image()))
+            elif user_input.lower() == "what color is this":
+                detect_color()
+                
+            else:
+                print(user_input)
      
