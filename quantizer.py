@@ -6,11 +6,10 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 import json, pickle
 
-# Assuming 'device' is defined earlier
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load dataset from JSON file
-with open('../Navi/intent_dataset.json', 'r') as file:
+with open('/intent_dataset.json', 'r') as file:
     dataset = json.load(file)
 
 # Extract labels from the dataset

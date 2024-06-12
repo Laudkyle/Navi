@@ -250,16 +250,25 @@ with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',channels=
         if recognizer.AcceptWaveform(data):
             result = recognizer.Result()
             result_dict = json.loads(result)
-            user_input = "who is this"
+            user_input =  result_dict.get("text", "")
             if user_input.lower() == 'exit':
                 break
             elif user_input.lower() == "read":
-                print(extract_text_from_image(text_capture_image))
+                speak(extract_text_from_image(text_capture_image()))
                 
+                navi.change_state("Idle")
+                break
             elif user_input.lower() == "who is this":
-                print(recognize_face_from_image(face_capture_image()))
+                speak(recognize_face_from_image(face_capture_image()))
+                navi.change_state("Idle")
+                break
+
             elif user_input.lower() == "what color is this":
-                detect_color()
+                speak(detect_color())
+                navi.change_state("Idle")
+                break
+
+
                 
             else:
                 print(user_input)

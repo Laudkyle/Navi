@@ -19,7 +19,6 @@ def calculate_heading(coord1, coord2):
     try:
         angle = 180 * (delta_lon / max(1e-9, abs(delta_lon))) * math.acos(delta_lat / max(1e-9, distance)) / math.pi
     except ValueError:
-        # Handle the case where acos produces invalid values
         return "forward"
 
     if angle > 0:

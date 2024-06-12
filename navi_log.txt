@@ -5,3 +5,71 @@
 2024-06-11 08:15:32,256 - INFO - Command: Person Identification
 2024-06-11 08:15:32,256 - INFO - Command: Person Identification failed
 2024-06-11 08:17:19,132 - INFO - Command: Person Identification
+2024-06-12 10:31:00,220 - INFO - Could not import comtypes.gen, trying to create it.
+2024-06-12 10:31:00,220 - INFO - Created comtypes.gen directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:31:00,220 - INFO - Writing __init__.py file: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen\__init__.py'
+2024-06-12 10:31:00,226 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:31:00,426 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2024-06-12 10:31:00,445 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2024-06-12 10:31:00,543 - INFO - # Generating comtypes.gen.SpeechLib
+2024-06-12 10:31:00,559 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2024-06-12 10:31:00,559 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2024-06-12 10:31:00,559 - INFO - # Generating comtypes.gen.stdole
+2024-06-12 10:32:25,527 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 10:32:25,527 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:34:29,870 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 10:34:29,870 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:41:39,117 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 10:41:39,117 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:49:57,364 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 10:49:57,364 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 10:57:59,323 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 10:57:59,324 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:01:29,427 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:01:29,427 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:04:24,872 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:04:24,872 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:07:36,830 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:07:36,831 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:08:18,274 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:08:18,274 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:20:04,441 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:20:04,441 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:22:44,956 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:22:44,957 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:27:12,345 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:27:12,345 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:32:24,165 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:32:24,165 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:34:01,908 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:34:01,908 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:34:50,762 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:34:50,772 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:36:25,989 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:36:25,989 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:39:33,994 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:39:33,994 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:40:48,793 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:40:48,793 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:42:12,435 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:42:12,435 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:43:24,004 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:43:24,004 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:46:01,163 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:46:01,163 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:47:23,143 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:47:23,143 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:48:51,436 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:48:51,439 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 11:49:51,553 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 11:49:51,553 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 15:34:53,232 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 15:34:53,242 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 15:43:34,872 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 15:43:34,873 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 15:57:46,882 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 15:57:46,883 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 16:00:18,119 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 16:00:18,119 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
+2024-06-12 16:01:00,452 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Laud Kyle\\Documents\\Navi\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-12 16:01:00,453 - INFO - Using writeable comtypes cache directory: 'C:\Users\Laud Kyle\Documents\Navi\.venv\lib\site-packages\comtypes\gen'
