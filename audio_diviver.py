@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from pydub.silence import split_on_silence
 
 # Load audio file
-input_file = 'audio_data/long/read_long.wav'
+input_file = 'audio_data/long/read1.wav'
 output_dir = 'audio_data/read'
 
 os.makedirs(output_dir, exist_ok=True)
