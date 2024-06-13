@@ -7,7 +7,7 @@ from functions import play_sound  # Assuming this is a function to play sounds
 
 # Define the commands and speakers
 commands = ['person', 'read']
-speakers = ['Joe', 'Kyle']  # Add your actual speaker names here
+speakers = ['Barak','Joe']  # Add your actual speaker names here
 
 def record_audio(duration=2, sr=16000):
     play_sound('open')  # Optional: Play sound to indicate recording start

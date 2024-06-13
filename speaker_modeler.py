@@ -108,7 +108,7 @@ model = build_model(input_shape, len(np.unique(command_labels)), num_speakers)
 
 # Train model
 model.fit(X_train, {'command_output': command_train, 'speaker_output': speaker_train},
-          epochs=20, batch_size=8, validation_data=(X_test, {'command_output': command_test, 'speaker_output': speaker_test}))
+          epochs=100, batch_size=8, validation_data=(X_test, {'command_output': command_test, 'speaker_output': speaker_test}))
 
 # Evaluate model
 loss, command_accuracy, speaker_accuracy = model.evaluate(X_test, {'command_output': command_test, 'speaker_output': speaker_test})

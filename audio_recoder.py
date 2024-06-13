@@ -10,4 +10,4 @@ def record_audio(filename, duration, fs=16000):
     print("Recording saved to", filename)
 
 for i in range(1,50):
-    record_audio(f'audio_data/read/read{i}.wav', duration=2)
+    record_audio(f'audio_data/speaker/Joe/read/{i}.wav', duration=2)
