@@ -257,19 +257,13 @@ with sd.RawInputStream(samplerate=16000, blocksize=8000, dtype='int16',channels=
                 speak(extract_text_from_image(text_capture_image()))
                 
                 navi.change_state("Idle")
-                break
             elif user_input.lower() == "who is this":
                 speak(recognize_face_from_image(face_capture_image()))
                 navi.change_state("Idle")
-                break
 
             elif user_input.lower() == "what color is this":
                 speak(detect_color())
                 navi.change_state("Idle")
-                break
-
-
-                
             else:
                 print(user_input)
      
