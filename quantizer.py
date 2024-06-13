@@ -9,7 +9,7 @@ import json, pickle
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load dataset from JSON file
-with open('/intent_dataset.json', 'r') as file:
+with open('datasets/intent_dataset.json', 'r') as file:
     dataset = json.load(file)
 
 # Extract labels from the dataset

@@ -1,75 +1,47 @@
-import numpy as np
-import sounddevice as sd
-from tensorflow.keras.models import load_model
+import os
 import librosa
+import numpy as np
+from sklearn.model_selection import train_test_split
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.models import Sequential, load_model
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+import sounddevice as sd
+from functions import play_sound
 
-# Define the commands and load the trained model
-commands = ['person', 'read']  # Add your actual commands here
-model = load_model('model.h5')
-sr = 16000  # Sampling rate
-n_mfcc = 13  # Number of MFCC features
-fixed_length = 2  # Fixed length in seconds for each chunk
-window_stride = 0.5  # Window stride in seconds
 
-# Initialize variables for buffering audio data
-audio_buffer = np.array([])
+commands = ['person', 'read']
 
-def preprocess_audio(audio, sr=16000, n_mfcc=13, fixed_length=2):
+def record_audio(duration=2, sr=16000):
+    play_sound('open')
+    audio = sd.rec(int(duration * sr), samplerate=sr, channels=1, dtype='float32')
+    sd.wait()  # Wait until recording is finished
+    play_sound('close')
+    audio = audio.flatten()
+    return audio
+
+def preprocess_audio_from_array(audio, sr=16000, n_mfcc=13, fixed_length=2):
     y = librosa.util.fix_length(audio, size=sr * fixed_length)  # Ensure audio is 2 seconds
     mfccs = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=n_mfcc)
     return mfccs
 
-def predict_command(audio_data):
-    # Preprocess the audio input
-    mfccs = preprocess_audio(audio_data, sr=sr, n_mfcc=n_mfcc, fixed_length=fixed_length)
-    mfccs = mfccs[..., np.newaxis]  # Add channel dimension
-    mfccs = np.expand_dims(mfccs, axis=0)  # Add batch dimension
+# Record a 2-second audio clip
+audio = record_audio(duration=2, sr=16000)
 
-    # Make prediction
-    predictions = model.predict(mfccs)
-    predicted_label = np.argmax(predictions, axis=1)
-    predicted_command = commands[predicted_label[0]]
+# Preprocess the recorded audio
+mfccs = preprocess_audio_from_array(audio, sr=16000)
+mfccs = mfccs[..., np.newaxis]  # Add channel dimension
 
-    # Return the predicted command
-    return predicted_command
+# Load the trained model
+model = load_model('model.h5')
 
-def audio_callback(indata, frames, time, status):
-    global audio_buffer
+# Add a batch dimension to the MFCCs
+mfccs = np.expand_dims(mfccs, axis=0)
 
-    if status:
-        print(f"Status: {status}")
+# Make predictions
+predictions = model.predict(mfccs)
+predicted_label = np.argmax(predictions, axis=1)
 
-    try:
-        # Append the new audio data to the buffer
-        audio_buffer = np.concatenate((audio_buffer, indata.flatten()))
+# Map the label to the corresponding command
+predicted_command = commands[predicted_label[0]]
 
-        # Calculate how many complete fixed-length segments we have in the buffer
-        chunks_available = audio_buffer.shape[0] // (sr * fixed_length)
-
-        if chunks_available > 0:
-            for i in range(chunks_available):
-                # Extract a fixed-length segment for processing
-                segment = audio_buffer[i * sr * fixed_length:(i + 1) * sr * fixed_length]
-
-                # Ensure segment length matches expected size
-                if len(segment) == sr * fixed_length:
-                    predicted_command = predict_command(segment)
-                    print(f'Predicted Command: {predicted_command}')
-                else:
-                    print(f"Ignoring segment of incorrect length: {len(segment)}")
-
-            # Remove the processed segments from the buffer
-            audio_buffer = audio_buffer[chunks_available * sr * fixed_length:]
-
-    except Exception as e:
-        print(f"Error in audio_callback: {e}")
-
-# Start streaming audio and predicting in real-time
-blocksize = int(sr * window_stride)
-with sd.InputStream(callback=audio_callback, channels=1, samplerate=sr, blocksize=blocksize):
-    print("Listening... Press Ctrl+C to stop.")
-    try:
-        while True:
-            pass  # Keep the stream open
-    except KeyboardInterrupt:
-        print("Stopped.")
+print(f'Predicted Command: {predicted_command}')

@@ -187,16 +187,51 @@ def detect_color(num_clusters=3):
 
 
 
+def store_person():
+    cap = cv2.VideoCapture(0)
+    
+    # Check if the webcam opened successfully
+    if not cap.isOpened():
+        print("Error: Could not open video device")
+        return None
+    
+    adjust_camera_settings()
+    # Capture a single frame
+    ret, frame = cap.read()
+    
+    # Check if frame was successfully captured
+    if not ret:
+        print("Error: Could not read frame")
+        cap.release()
+        return None
+    
+    # Release the webcam
+    cap.release()
+
+    
+    # Ask for person's name
+    person_name = input("Enter the person's name: ").strip()
+    
+    # Check if person_name is empty
+    if not person_name:
+        print("Error: Person's name cannot be empty")
+        return None
+    
+    # Save the captured frame to an image file
+    image_path = f"{person_name}.png"
+    cv2.imwrite(image_path, frame)
+    
+    print(f"Image saved as: {image_path}")
+    
+    return image_path
+
+
+
 
 def face_capture_image():
 
     cap = cv2.VideoCapture(0)
-    cap.set(cv2.CAP_PROP_EXPOSURE, 0.5)  # Example: set exposure to 50%
-    cap.set(cv2.CAP_PROP_BRIGHTNESS, 0.5)  # Example: set brightness to 50%
-    cap.set(cv2.CAP_PROP_CONTRAST, 1)  # Example: increase contrast by 20%
-    # cap.set(cv2.CAP_PROP_SATURATION, 1.5)  
-    # cap.set(cv2.CAP_PROP_WHITE_BALANCE_RED_V, 1)
-    # cap.set(cv2.CAP_PROP_WHITE_BALANCE_BLUE_U, 1)
+    adjust_camera_settings()
 
     if not cap.isOpened():
         print("Error: Could not open video device")
@@ -218,6 +253,31 @@ def face_capture_image():
 
     return image_path
 
+def text_capture_image():
+
+    cap = cv2.VideoCapture(0)
+    adjust_camera_settings()
+
+    if not cap.isOpened():
+        print("Error: Could not open video device")
+        return None
+
+    # Capture a single frame
+    ret, frame = cap.read()
+
+    if not ret:
+        print("Error: Could not read frame")
+        return None
+
+    # Release the webcam
+    cap.release()
+
+    # Save the captured frame to an image file
+    image_path = 'text_temp.png'
+    cv2.imwrite(image_path, frame)
+
+    return image_path
+
 def play_sound(sound):
     filename = f'sounds/{sound}.wav'  
     data, samplerate = sf.read(filename)
@@ -231,3 +291,14 @@ def speak(text):
 
     engine.say(text)
     engine.runAndWait()
+    
+def adjust_camera_settings():
+    # Open the webcam
+    cap = cv2.VideoCapture(0)
+    # Adjust camera properties
+    cap.set(cv2.CAP_PROP_SATURATION, 100)  # Increase saturation
+    cap.set(cv2.CAP_PROP_WHITE_BALANCE_BLUE_U, -100)  # Automatic white balance (blue channel)
+    cap.set(cv2.CAP_PROP_WHITE_BALANCE_RED_V, -100)   #  # Adjust white balance for red channel
+    cap.set(cv2.CAP_PROP_CONTRAST, 100)  # Adjust contrast
+    cap.set(cv2.CAP_PROP_BRIGHTNESS, 50)  # Adjust brightness
+    cap.set(cv2.CAP_PROP_EXPOSURE, -100)  # Decrease exposure
